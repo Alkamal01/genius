@@ -1,0 +1,519 @@
+﻿DOCS SCHEME
+
+PROJECT GENIUS DOCS
+│
+├── Home
+│   ├── Project Genius Hub
+│   ├── Team / Partners
+│   └── Agenda
+│
+├── Ground-Potentialising
+│   ├── Individuals
+│   └── Teams
+│
+├──  Enactment
+│   ├── Teams
+│   └── Pods 
+│
+├──  EVENTS
+│   ├── Event 1
+│   ├── Event 2
+│   ├── Event 3
+│   └── Event 4
+│
+├──  PROCESS
+│   ├── Enrolment
+│   ├── Documentation
+│   ├── Regenerative Develpment Principles
+│   ├── Mentoship and Support
+│   └── Timeline and Tooling
+│
+├──  INCENTIVES
+│   ├── Ground-Potentialising Challenge
+│   ├── Event 2 Prize
+│   ├── Event 3 Judging & Awards
+│   ├── Event 4 Recognition
+│   └── Leaderboard
+│
+└──   LEARNING LIBRARY
+    ├── Regenerative Development
+    ├── Case Studies
+    ├── Storytelling & Narrative Guides
+    ├── Systems Thinking Primer
+    └── FAQ
+
+
+________________
+
+
+HOME — Project Genius Hub (landing page)
+Purpose: landing page — hub identity, mission, top links, timeline snapshot and immediate calls to action.
+Title: Project Genius Hub — Zaria
+Hero line: Hacking the system — not just the code.
+Intro paragraph:
+ Project Genius Hub Zaria supports community-centred problem discovery, rapid prototyping and evidence-based solutions. We help local teams translate field research into clear, publishable submissions for Prisma and WADA while building local capacity and connecting projects to mentors and prizes.
+Quick actions (buttons / links):
+* Submit progress (Intake Form): [LINK_TO_GOOGLE_FORM]
+
+* Upload evidence (Drive Upload): [LINK_TO_SHARED_DRIVE]
+
+* Join a Pod (Matchmaking): [LINK_TO_POD_FORM]
+
+* View events & schedule: [LINK_TO_AGENDA_PAGE]
+
+Timeline (short table or bullets):
+   * Nov 25, 2025 — Kickoff (Virtual): full process & demo
+
+   * Nov 29, 2025 — Fast Prototyping with AI (Workshop)
+
+   * Dec 09, 2025 — The Refinery (Midway Stakeholder Review — Hybrid)
+
+   * TBA — Grand Finale (Physical — Hub demo day & final upload)
+
+Who we are (short):
+ Hub Leads: Alfred (Co-Lead) — [contact]
+Docs Custodian: Kamal — [contact]
+Git/Support: [Name] — [contact]
+What we expect of teams (short bullets):
+      * Do field research in Zaria (talk to people, gather photos/video).
+
+      * Upload 3 photos + 1 short video link + 200–300 word summary.
+
+      * If you can’t use Git, tick “Need Hub help” — we’ll publish on your behalf.
+
+Footer quick links: How to submit | Events | Pods & Teams | Contact
+________________
+
+
+HOME — Team / Partners (teams-partners page)
+Purpose: directory of teams and partners, public contact & quick summaries.
+Title: Teams & Partners — Project Genius Hub Zaria
+Intro: This page lists all confirmed teams and official partner organisations supporting the hub. Each team entry links to their team folder (submission) and contact. Partners are listed with short role descriptions.
+Teams (format for each entry):
+         * Team name: [Team Alpha — Market Waste to Fuel]
+
+            * Short summary: 1–2 lines describing problem & approach.
+
+            * Team lead: Name — phone / email
+
+            * Link to team page: [link to team folder]
+
+            * Status: [researching | prototyping | testing | submitted]
+
+(Repeat for each team.)
+Partners (format):
+               * [Partner name] — role: mentoring / technical support / prize sponsor — contact link
+
+               * [Partner name] — short sentence on expected contribution
+
+How to become a partner: short paragraph + contact link: [contact@hub]
+________________
+
+
+HOME — Agenda (agenda page)
+Purpose: hub calendar with event dates, sign-up links and what to bring.
+Title: Hub Agenda & Calendar
+Introduction: Below are our scheduled events and meeting slots. Click an event to see the agenda and required items. Add these dates to your calendar and RSVP using the provided links.
+Upcoming events: (show date, time, short description, RSVP link)
+                  * Nov 25 — Kickoff — Virtual — 16:00 WAT — RSVP: [link] — What to bring: not required (we will demo)
+
+                  * Nov 29 — Fast Prototyping with AI — 10:00 WAT — RSVP: [link] — What to bring: laptop, 3 photos, project idea
+
+                  * Dec 09 — The Refinery — Hybrid — RSVP: [link] — What to bring: prototype/demo, 2 slides, evidence folder
+
+                  * Finale (TBD) — Final in-person demo day — RSVP: [link] — What to bring: final product, printed one-pager
+
+Weekly check-ins: include schedule and access link (e.g., Tuesdays 18:00 WAT — Zoom/WhatsApp)
+________________
+
+
+GROUND-POTENTIALISING — index / overview
+Purpose: explain field research goals, leaderboard and how individual vs team sensing works.
+Title: Ground-Potentialising — Sensing Zaria
+Intro paragraph: Ground-Potentialising means going into the place — meeting people, listening, and collecting evidence before building. This section captures individual and team field work and rewards those who gather deep local insight.
+Key goals:
+                     * Listen to local people and record real problems.
+
+                     * Gather 3 photos + 3 quotes + short video for every meaningful discovery.
+
+                     * Turn insights into a team problem statement and a prototype idea.
+
+Leaderboards & incentives (short): Points for uploads, PRs, and presentations. (See Incentives page for details.)
+How pages are organised:
+                        * Individuals: personal sensing pages (name + date + evidence).
+
+                        * Teams: team discovery pages and submission drafts.
+
+Immediate action for participants: Fill the Intake Form and upload your evidence to Drive now: [LINK]
+________________
+
+
+GROUND-POTENTIALISING — Individuals
+Purpose: individual sensing entries, simple template for what to record.
+Title: Individual Sensing — [Name] — [Date]
+One-line: A record of a single person’s field visits and findings.
+Required content (what each entry must include):
+                           1. Short headline: place + problem (1 sentence)
+
+                           2. Where & when: location, date, time
+
+                           3. 3 short direct quotes (who said it and role)
+
+                           4. 3 photos (with captions)
+
+                           5. 60–120s video link or short audio file + transcript
+
+                           6. Short reflection (200–300 words): what did you learn and why it matters?
+
+                           7. Consent statement: yes/no + consent file reference
+
+Example summary paragraph (copyable):
+ Visited Sabon Gari Market on 2025-11-24. Traders report poor waste removal causes pests and blocks drains. Interviewed 6 traders; key quote: “The drains are full every two days; customers stop coming.” Photos attached. Consent obtained from each speaker.
+________________
+
+
+GROUND-POTENTIALISING — Teams
+Purpose: team discovery log and canonical submission draft.
+Title: Team: [Team Name] — Discovery Log & Submission Draft
+Sections (exact content to include):
+                              * Team contact & short summary (1–2 lines)
+
+                              * Problem statement (2–3 sentences) — who, where, why it matters
+
+                              * Evidence list (photos, audio, video links with captions & consent)
+
+                              * Research notes (who was interviewed, dates, sample size)
+
+                              * Preliminary solution idea / prototype description
+
+                              * Tests done (if any) and quick results (numbers, observations)
+
+                              * Next steps and support needed (mentorship, equipment, funds)
+
+Example:
+ Problem: Market waste blocks drains at Zaria Central Market. Evidence: 5 photos, 2 interviews (audio transcripts attached), local estimate: 30kg/day of organic waste. Prototype: test a decentralized collection drum at one block for 2 weeks.
+________________
+
+
+ENACTMENT — index (overview)
+Purpose: explain the learning arcs, session rhythms and how teams move through stages.
+Title: Enactment — How we run learning arcs
+Intro: Enactment is the practical running of sessions: ideation, prototyping, testing, and reflection. We use short learning arcs of 3–7 days that include a field task, team session, and documentation.
+Stages (simple list):
+                                 1. Ground (listen & collect)
+
+                                 2. Define (problem statement & user)
+
+                                 3. Prototype (fast & cheap)
+
+                                 4. Test (small local tests)
+
+                                 5. Reflect (document and iterate)
+
+Weekly rhythm example:
+                                    * Monday: fieldwork plan
+
+                                    * Wednesday: small team check-in — share findings
+
+                                    * Friday: prototype demo + update submission draft
+
+________________
+
+
+ENACTMENT — Teams
+Purpose: track team stage, responsibilities and what to present at each stage.
+Title: Teams — progress tracker
+Each team entry should include:
+                                       * Current stage (Ground, Define, Prototype, Test, Reflect)
+
+                                       * Short 1-line status update (what did you do this week?)
+
+                                       * Required deliverable for next check-in (e.g., 3 photos + updated submission.md)
+
+                                       * Next meeting date/time and contact
+
+Example status line:
+ Team Waste — Stage: Prototype — This week: installed one collection drum, tested for 48 hours. Next deliverable: 48-hour weight log + 3 photos + user quote.
+________________
+
+
+ENACTMENT — Pods
+Purpose: explain pods, how pods form, and how individuals join pods.
+Title: Pods & Matchmaking
+What is a Pod? A pod is a small group forming around a single, well-framed problem. Pods combine different skills (dev, researcher, scribe, designer).
+How to join:
+                                          * Fill the Pod sign-up form [LINK] — list skills you can offer.
+
+                                          * Pod leads will invite members based on needs listed.
+
+                                          * When a pod reaches 4–6 members, it becomes a team and gets a team folder.
+
+Pod listing format (for each pod):
+                                             * Pod name, problem statement, current members (roles), needs (list), join link
+
+________________
+
+
+EVENTS — Event 1: Kickoff (25 Nov 2025)
+Purpose: official launch — full process, demo, and answers.
+Title: Kickoff — 25 Nov 2025
+What it is: Virtual session to present hub rules, submission process, timeline, and regenerative development principles. Live demo of a gold sample submission (Google Drive → repo → Vercel preview).
+Agenda (time slices):
+                                                * Welcome & recaps (5 min)
+
+                                                * Timeline & expectations (10 min)
+
+                                                * Regenerative Development short talk (20 min)
+
+                                                * Demo: gold sample (15 min)
+
+                                                * How to document & practical checklist (10 min)
+
+                                                * Q&A and next steps (10 min)
+
+What to bring: None required — but teams should have at least one evidence item (photo or 1-paragraph note) ready by the end of the day.
+Follow-up: Recording, slides and gold sample link posted in Home within 24 hours.
+________________
+
+
+EVENTS — Event 2: Fast Prototyping with AI (29 Nov 2025)
+Purpose: practical workshop teaching how to build MVPs fast using AI & low-code tools.
+Title: Fast Prototyping with AI — 29 Nov 2025
+What it is: Hands-on workshop to help teams build quick prototypes (chatbots, simple web UI, data processing) in a day. Focus on the smallest testable idea.
+Agenda:
+                                                   * Intro to rapid prototyping principles (10 min)
+
+                                                   * Tool overview: low-code/AI tools to try (15 min)
+
+                                                   * Guided build session (60 min) — breakouts by team
+
+                                                   * Show & Tell (20 min)
+
+Required for teams: Bring at least one clear problem statement and 3 photos / 1 user quote.
+________________
+
+
+EVENTS — Event 3: The Refinery — Midway Stakeholder Review (09 Dec 2025)
+Purpose: semi-final, hybrid event where stakeholders give feedback so teams can refine before final submission.
+Title: The Refinery — 09 Dec 2025
+What it is: A hybrid showcase and critique session. Teams present their prototypes and evidence. Stakeholders (lecturers, founders, target users) give concrete feedback.
+Expectations for teams: 5-minute presentation + 2 slides, link to submission draft, Vercel preview or video demo.
+Judges & stakeholders: list of invited reviewers and roles (placeholder).
+Outcome: each team receives a short feedback summary and concrete next steps to prepare final submission.
+________________
+
+
+EVENTS — Event 4: Grand Finale (Final Hub Day)
+Purpose: in-person final hack day and final submission to WADA / Prisma.
+Title: Grand Finale — Hub Demo Day
+What it is: Final in-person event where teams put finishing touches, present final demos and all documentation is finalized for upload to WADA/Prisma.
+Requirements for final submission:
+                                                      * Completed submission.md (template filled)
+
+                                                      * README.md with team contacts
+
+                                                      * assets/ folder with photos + consent
+
+                                                      * video demo link (2–5 min) or Vercel live preview
+
+                                                      * PR opened by Kamal and merged before the organizer deadline
+
+Prizes & awards: local hub prizes + final winners that proceed to global evaluation.
+________________
+
+
+PROCESS — Enrolment
+Purpose: explain who can join, how hub enrols teams and individuals, and what intake looks like.
+Title: Enrolment — How to join the hub
+Summary: Anyone from Zaria can join as an individual or team. Use the intake form to register your team or indicate you are looking for team members.
+Steps to enrol:
+                                                         1. Fill intake form [LINK].
+
+                                                         2. Upload initial evidence (3 photos + 1 paragraph).
+
+                                                         3. Hub confirms registration and creates team folder or lists you in Pods.
+
+                                                         4. Teams that fail to register by the enrolment deadline risk missing PR practice slots.
+
+Key links: intake form, Drive upload, Pod sign-up
+________________
+
+
+PROCESS — Documentation (the essential page)
+Purpose: single authoritative place listing exactly what a team must supply and how to name files.
+Title: Documentation — What you must submit
+Short intro: Teams upload to Drive; Hub will publish. To be accepted, every submission must include:
+Required items (checklist):
+                                                            * submission.md — fully filled (use template)
+
+                                                            * README.md — team contacts & short summary
+
+                                                            * assets/ — minimum 3 photos + captions + consent
+
+                                                            * assets-index.md — list of files and captions
+
+                                                            * video demo link OR Vercel preview link
+
+                                                            * consent files for identifiable people
+
+Naming rules: YYYYMMDD_type_shortdesc (example: 20251125_photo-market-entrance.jpg)
+File size rule: Videos >50MB must be on Drive / YouTube (link in assets folder).
+PR & review flow (short): Kamal creates branch, copies files, opens PR, reviewer checks checklist, merges. Hub lead or organiser merges final PR.
+________________
+
+
+PROCESS — Regenerative Development Principles
+Purpose: brief, practical summary and prompts for teams on how to apply regenerative principles in the field.
+Title: Regenerative Development — practical guide
+Short paragraph: Regenerative development means designing solutions that restore local systems — socially, economically and ecologically. It focuses on listening, co-creating with users, and thinking long-term.
+Practical prompts for teams:
+                                                               * Who benefits if this succeeds — name 3 people or groups?
+
+                                                               * What existing local practice can we build on or partner with?
+
+                                                               * How will this change local livelihoods or systems after 6–12 months?
+
+Short checklist: ensure community consent, test with real users, track real-world outcomes (numbers, stories, photos).
+________________
+
+
+PROCESS — Mentorship and Support
+Purpose: how teams request mentors, what mentors will do, and rules for mentor engagement.
+Title: Mentorship & Support — how to request and what to expect
+How to request: Fill mentorship request form [LINK] and list specific help required (technical, business, testing site).
+What mentors provide: 1-hour sessions, written feedback, and targeted resources. Mentors do not write code for teams.
+Mentor matching rules: priority for teams demonstrating evidence and a clear next step.
+________________
+
+
+PROCESS — Timeline and Tooling
+Purpose: consolidated schedule and list of tools used by the hub.
+Title: Timeline & Tooling
+Timeline: repeat important dates (Kickoff, Ai Workshop, Refinery, Finale) and submission deadlines (insert organiser deadlines).
+Tools we use:
+                                                                  * Google Forms (intake) — [link]
+
+                                                                  * Shared Drive (evidence) — [link]
+
+                                                                  * Github (hub repo) — [link]
+
+                                                                  * Vercel (preview & site) — [link]
+
+                                                                  * WhatsApp/Slack — [link / phone numbers]
+
+                                                                  * Zoom/Meet for events
+
+Quick note: Non-technical teams should tick “Need Hub help” and the Hub will create team folders/PRs.
+________________
+
+
+INCENTIVES — index (overview)
+Purpose: explain point system, local prizes and how leaderboard works.
+Title: Incentives & Leaderboard
+Intro paragraph: We give points for participation to encourage action: research uploads, PR drafts, presentations and wins.
+How points are earned (example):
+                                                                     * Intake + evidence (3 photos + 1 paragraph): 10 points
+
+                                                                     * PR opened (draft): 20 points
+
+                                                                     * Presented at Midway (The Refinery): 15 points
+
+                                                                     * Final winner (hub level): 30 points
+
+How prizes are awarded: Hub judges award local prizes after events; prizes range from cash vouchers to mentorship packages.
+Leaderboard: link to live Google Sheet [LINK_TO_LEADERBOARD_SHEET]
+________________
+
+
+INCENTIVES — Ground-Potentialising Challenge
+Purpose: rules and rewards for research challenge.
+Title: Ground-Potentialising Challenge — rules
+Short rules: Submit at least one high-quality sensing entry (3 photos + quotes + 200-word reflection) to be eligible. Quality judged by depth of interviews, diversity of sources, and clarity of problem. Winners announced at The Refinery.
+Prize: local prize + 1 mentorship hour.
+________________
+
+
+INCENTIVES — Event-specific prizes (Event 2, 3, 4)
+Purpose: short pages describing what each prize is and how it’s judged.
+Title (example): Event 2 Prize — Fast Prototyping Winner
+Prize description: best rapid prototype that shows user testing, evidence and a plausible next step. Award: [cash] or [voucher] + mentor session.
+Judging criteria: clarity of problem, prototype relevance, evidence of testing, potential to scale.
+(Repeat similarly for Event 3 Judging & Awards and Event 4 Recognition.)
+________________
+
+
+INCENTIVES — Leaderboard
+Purpose: show running points and how to query / update.
+Title: Leaderboard — current points
+Intro: Leaderboard is maintained in a Google Sheet. Check current points status here: [LINK_TO_LEADERBOARD_SHEET]. To correct a points error, message the Hub Lead with PR link or evidence.
+________________
+
+
+LEARNING LIBRARY — Regenerative Development
+Purpose: a practical primer and reading links for teams.
+Title: Regenerative Development — Primer
+Short intro: Short practical summary: listen, work with existing systems, plan for long-term stewardship and measure human impact not just lines of code.
+Key ideas (bullets):
+                                                                        * Start with people and place — not the technology
+
+                                                                        * Prototype quickly, test with real people, learn, iterate
+
+                                                                        * Prioritize solutions that regenerate local capacity
+
+Suggested prompts for teams: Who are the stewards of this problem? What local knowledge exists? How can we support, not replace?
+________________
+
+
+LEARNING LIBRARY — Case Studies
+Purpose: short local/nearby examples teams can learn from (placeholders).
+Title: Case Studies — learning from practice
+Format: 3–5 short case studies (each 2–3 paragraphs) on relevant examples — e.g., market waste composting, local mobility solution, small-data civic feedback project. Include what worked and what didn’t.
+(Provide links if you have local examples; otherwise mark as TO ADD.)
+________________
+
+
+LEARNING LIBRARY — Storytelling & Narrative Guides
+Purpose: short guides for teams to write clear stories for judges and the public.
+Title: Storytelling for Impact — quick guide
+Structure to tell your project story:
+                                                                           1. The place & problem (1–2 sentences)
+
+                                                                           2. The human story (a quote or short story)
+
+                                                                           3. What you tried (1–2 sentences)
+
+                                                                           4. What you learned (2–3 bullet points)
+
+                                                                           5. What comes next (1–2 sentences)
+
+Example story (copyable): [one-paragraph example]
+________________
+
+
+LEARNING LIBRARY — Systems Thinking Primer
+Purpose: short introduction and practical prompts for mapping systems.
+Title: Systems Thinking — starter prompts
+Short text: Systems thinking helps you see causes, not just symptoms. Use simple mapping: actors, flows, constraints, leverage points.
+Practical exercise: draw a simple map of the market waste system — actors (vendors, collectors), flows (waste → drains), constraints (collection costs), possible leverage: collection drum + micro-payments.
+________________
+
+
+LEARNING LIBRARY — FAQ
+Purpose: answer common, quick questions (Git help, consent, deadlines).
+Suggested FAQ items (question + short answer):
+                                                                              * Q: Do teams need Git or Obsidian?
+A: No. Upload to Drive and mark “Need Hub help” if you want the Hub to publish for you.
+
+                                                                              * Q: What evidence is required?
+A: Minimum 3 photos, 3 quotes, 200–300 word reflection, video link (optional). Consent required for identifiable people.
+
+                                                                              * Q: Who merges PRs?
+A: Hub Lead or organiser (we will confirm if main is protected).
+
+                                                                              * Q: Where do I get templates?
+A: Templates are in the Templates folder of the repo and on the Hub Drive.
+
+                                                                              * Q: How do we get help with Vercel or build errors?
+A: Contact the Hub Git operator / Kamal and post in the support channel.
+
+________________
