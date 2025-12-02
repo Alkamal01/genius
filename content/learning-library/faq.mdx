@@ -2,26 +2,279 @@
 sidebarTitle: FAQ
 ---
 
-# FAQ
+# Frequently Asked Questions
 
-## Q: Do teams need Git or Obsidian?
+**Purpose:** Quick answers to common questions about Git, consent, deadlines, and technical support.
 
-A: No. Upload to Drive and mark "Need Hub help" if you want the Hub to publish for you.
+---
 
-## Q: What evidence is required?
+## 🛠️ Technical Setup
 
-A: Minimum 3 photos, 3 quotes, 200–300 word reflection, video link (optional). Consent required for identifiable people.
+### Q: Do teams need Git or Obsidian?
 
-## Q: Who merges PRs?
+**A:** No, these tools are optional. If you're not comfortable with Git:
+- Upload your work to the shared Google Drive
+- Mark your submission as **"Need Hub help"**
+- The Hub team will publish your work to the repository for you
 
-A: Hub Lead or organiser (we will confirm if main is protected).
+**However**, learning Git is valuable for your development career. If you want to try, check the [submission guidelines](/processes/ground-potentialising/deploy) for a beginner-friendly guide.
 
-## Q: Where do I get templates?
+---
 
-A: Templates are in the Templates folder of the repo and on the Hub Drive.
+### Q: How do we get help with Vercel or build errors?
 
-## Q: How do we get help with Vercel or build errors?
+**A:** Follow these steps:
+1. **First**, check if your markdown files have proper formatting (no unclosed code blocks, valid frontmatter)
+2. **Post in the support channel** with:
+   - Screenshot of the error
+   - Link to your branch/PR
+   - What you were trying to do
+3. **Tag** the Hub Git operator (Kamal) for urgent issues
 
-A: Contact the Hub Git operator / Kamal and post in the support channel.
+**Common fixes:**
+- Missing closing `---` in frontmatter
+- Unclosed code blocks (missing closing ```)
+- Special characters in filenames (use hyphens, not spaces)
 
+---
 
+### Q: Where do I get templates?
+
+**A:** Templates are available in two places:
+- **In the repository:** `/Templates` folder
+- **On Google Drive:** Shared team folder → Templates
+
+**Available templates:**
+- PRD (Project Requirements Document)
+- Daily Dev Log
+- Submission Document
+- System Mapping Worksheet
+
+---
+
+## 📋 Requirements & Deadlines
+
+### Q: What evidence is required for submission?
+
+**A:** Minimum requirements:
+
+**Visual Evidence:**
+- ✅ **3 photos minimum** showing your solution in context
+- ✅ Photos should show: the problem, your prototype, people using it
+
+**Human Evidence:**
+- ✅ **3 quotes minimum** from real users/stakeholders
+- ✅ Quotes should include: name (or anonymous), role, and their feedback
+- ✅ **Consent required** for any identifiable people in photos or quotes
+
+**Written Evidence:**
+- ✅ **200-300 word reflection** on what you learned
+- ✅ **Video link (optional but recommended)** — 2-3 minute demo or story
+
+**Pro tip:** Collect evidence continuously, don't wait until the end!
+
+---
+
+### Q: What are the key dates and deadlines?
+
+**A:** Mark your calendar:
+
+- **Dec 03:** Team Formation (The Insight Lab) — Find your team
+- **Dec 06:** The Builders' Assembly (Coding Session) — Start building
+- **Dec 09:** The Refinery (Mid-way Review) — Show progress, get feedback
+- **[Final Submission]:** [Date TBD] — Complete documentation due
+
+**Daily expectations:**
+- Update your dev log every day you work
+- Test with real users at least once before mid-way review
+- Commit evidence (photos, quotes) as you collect it
+
+---
+
+## 🤝 Collaboration & Process
+
+### Q: Who merges PRs (Pull Requests)?
+
+**A:** The Hub Lead or event organizer will merge PRs.
+
+**Process:**
+1. Submit your PR when ready for review
+2. Tag it with `ready-for-review` label
+3. Hub team will review within 24 hours
+4. They may request changes — respond promptly
+5. Once approved, they'll merge to main
+
+**Note:** Main branch is protected to prevent accidental overwrites. This is for your safety!
+
+---
+
+### Q: How do we handle consent for photos and quotes?
+
+**A:** Consent is **mandatory** for any identifiable people. Follow this process:
+
+**For Photos:**
+- ✅ Ask permission before taking photos
+- ✅ Explain how the photo will be used (documentation, public presentation)
+- ✅ Offer to blur faces or take photos from behind if they prefer
+- ✅ Get verbal consent (written is better, but verbal is acceptable)
+
+**For Quotes:**
+- ✅ Ask if you can quote them
+- ✅ Show them what you wrote and confirm it's accurate
+- ✅ Ask if they want to be named or anonymous
+- ✅ Document their consent (note in your log)
+
+**Template consent statement:**
+> "We're documenting this project for a hackathon. Can we include this photo/quote in our public submission? You can be anonymous if you prefer."
+
+---
+
+### Q: What if our team member drops out?
+
+**A:** This happens! Here's what to do:
+
+1. **Update your team status** in the pods/teams directory
+2. **Post in the matchmaking channel** if you need a replacement
+3. **Adjust your scope** — it's better to do less well than more poorly
+4. **Talk to a mentor** — they can help you re-scope
+
+**Remember:** A 3-person team with a focused solution beats a 5-person team with an overambitious plan.
+
+---
+
+## 🎯 Project Scope & Strategy
+
+### Q: Our idea is too big. How do we scope it down?
+
+**A:** Great question! Follow the "Smallest Testable Version" approach:
+
+**Instead of:** "An app for all market vendors in the city"
+**Start with:** "SMS system for 5 onion vendors in one section"
+
+**Ask yourself:**
+- What's the **core problem** we're solving?
+- What's the **smallest version** that tests our assumption?
+- Can we test it with **5 people in 3 days**?
+
+**Rule of thumb:** If you can't test it with real users by Dec 06, it's too big.
+
+---
+
+### Q: We're stuck. Who can help?
+
+**A:** You have multiple support channels:
+
+**For technical issues:**
+- 💬 **Support channel** (Telegram/Discord)
+- 👨‍💻 **Hub Git operator** (Kamal) — for build/deployment issues
+- 📚 **Learning Library** — check the guides first
+
+**For project/design issues:**
+- 🎓 **Mentors** — book office hours (links in team directory)
+- 👥 **Other teams** — share learnings in the community channel
+- 📖 **Regenerative Development guide** — for framing questions
+
+**For personal/team issues:**
+- 🤝 **Event organizers** — reach out privately
+- 👥 **Team retrospective** — talk it out with your team first
+
+**Pro tip:** Describe what you've already tried when asking for help. "We tried X, expected Y, got Z instead" gets better responses than "It doesn't work."
+
+---
+
+## 📱 Communication & Updates
+
+### Q: How often should we update our dev log?
+
+**A:** **Every day you work on the project**, even if it's just 30 minutes.
+
+**Good dev log entries include:**
+- What you did today (be specific)
+- What you learned or discovered
+- What you're doing next
+- Any blockers or questions
+
+**Example:**
+```
+## Dec 04, 2024
+- Interviewed 3 vendors at Sabon Gari market
+- Learned: They already use WhatsApp for coordination
+- Next: Design SMS system that integrates with existing WhatsApp groups
+- Blocker: Need to understand mobile money API
+```
+
+---
+
+### Q: Can we change our project idea after starting?
+
+**A:** Yes, **but do it early** (before Dec 06 if possible).
+
+**Good reasons to pivot:**
+- User research revealed a different, more urgent problem
+- Your original idea isn't technically feasible in the timeframe
+- You discovered someone already solved your problem well
+
+**Bad reasons to pivot:**
+- It's harder than you thought (push through!)
+- You saw another team's "cooler" idea
+- You haven't tested with users yet (test first!)
+
+**Process:**
+1. Talk to a mentor first
+2. Update your PRD
+3. Notify the Hub team
+4. Document why you pivoted (this is valuable learning!)
+
+---
+
+## 🏆 Judging & Presentation
+
+### Q: What are judges looking for?
+
+**A:** Judges prioritize **impact over impressiveness**:
+
+**High value:**
+- ✅ Evidence of real user testing
+- ✅ Clear understanding of the problem context
+- ✅ Thoughtful reflection on what you learned
+- ✅ Realistic plan for long-term stewardship
+- ✅ Solutions that build local capacity
+
+**Lower value:**
+- ❌ Polished UI with no user testing
+- ❌ Complex technology with no clear benefit
+- ❌ Generic solutions not adapted to local context
+- ❌ "We'll scale to millions" without proving it works for 5 people
+
+**Remember:** A simple solution that **actually helps 5 people** beats a sophisticated app that helps no one.
+
+---
+
+### Q: Do we need a working prototype?
+
+**A:** You need **evidence of testing**, not necessarily a fully working product.
+
+**Acceptable evidence:**
+- Paper prototype tested with 5 users + their feedback
+- Working SMS system tested with 3 vendors + quotes
+- Physical prototype (e.g., collection drum) + photos of people using it
+- Wizard-of-Oz test (you manually do what the tech would do) + documentation
+
+**Not acceptable:**
+- "We plan to test it next week"
+- "Our friends said it's a good idea"
+- "We built it but haven't shown it to anyone yet"
+
+**Key principle:** Real feedback from real users in real contexts.
+
+---
+
+## 💡 Still Have Questions?
+
+**Can't find your answer here?**
+
+1. 🔍 **Search the Learning Library** — check other guides
+2. 💬 **Ask in the community channel** — someone else probably wondered too
+3. 📧 **Contact the Hub team** — [contact info]
+
+**Found a question that should be here?** Submit a PR to add it, or message the Hub team!

@@ -4,29 +4,412 @@ PROJECT GENIUS DOCS
 │
 ├── Home
 │   ├── Project Genius Hub
-│   ├── Team / Partners
-│   └── Agenda
+│   ├── Team-Hub Lead: Alfred Itodole [https://www.linkedin.com/in/sirxalfred/]
+Technical Lead: Kamal — [contact]
+Founder/Operations Lead: Morgan — https://www.linkedin.com/in/morgan-ufuoma/
+Media and Communications Lead:X = http://bit.ly/4rvmVUQ
+LinkedIn= https://bit.ly/45L8J1B
+Team Support:
+Event Lead:Muhammad Salman [https://www.linkedin.com/in/muhammad-muhammad-salman-846ab9232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+Community Lead: Ruqqayyah Labo [https://x.com/ruqqayyah_laboh?t=vbXECn3Iz51kDMh17XZ99w&s=09]
+Design Lead:
+Technical Support: Abdulazeez Folaranmi Bello 
+https://www.linkedin.com/in/abdulazeez-folaranmi-bello-38b83419a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+X : https://x.com/ay_zed_?s=21
+
+
+│   └──  Partners-Enactus: Community Partner. Google Developer Group on Campus: Hub Partner
 │
-├── Ground-Potentialising
-│   ├── Individuals
-│   └── Teams
+├── Ground-Potentialising-# Ground-Potentialising — Sensing Zaria
+
+
+### "You cannot solve a problem you haven't felt."
+
+
+This section serves as the **Evidence Locker** for Project Genius Hub. Before writing a single line of code, our participants went into the streets of Zaria—markets, hospitals, transport hubs, and schools—to observe the system dynamics firsthand.
+
+
+## 🎯 The Goal
+To move from "Assumptions" (what we think the problem is) to "Evidence" (what the problem actually is).
+
+
+## 📂 Research Directory
+We have categorized our findings into two streams:
+* **[👤 Individual Sensing](./individuals.md):** Solo explorers who went out to observe specific locations.
+* **[👥 Team Sensing](./teams.md):** Early groups who conducted joint field research.
+
+
+## 🏆 The "Insight Lab" Harvest
+On **Dec 3rd**, we gathered at the Hub to synthesize this data. The insights logged here are the direct output of that strategy session.
+
+
+---
+
+
+### 📥 Have new research?
+If you visited a location and haven't logged it yet, submit it now:
+👉 **[SUBMIT RESEARCH EVIDENCE]([LINK_TO_SUBMISSION_FORM])**
+
+
+│   ├── Individuals-# Individual Sensing Logs
+
+
+*Tracking the solo fieldwork conducted by our "Weavers" and "Builders" across Zaria.*
+
+
+> **Status:** Active Data Collection.
+> **Last Updated:** [Insert Date]
+
+
+| Participant | Location Visited | Domain | Key Problem Identified | Evidence |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Name Placeholder]** | *Sabon Gari Market* | *Waste Mgt* | *Drainage blockage caused by nylon packaging accumulation.* | **[View Video/Photo]** |
+| **[Name Placeholder]** | *Kongo Campus* | *Transport* | *Inconsistent shuttle pricing during peak hours.* | **[View Report]** |
+| **[Name Placeholder]** | *ABUTH Shika* | *Health* | *Paper record bottlenecks at the triage unit.* | **[View Audio]** |
+| **[Name Placeholder]** | *PZ Area* | *Commerce* | *Lack of digital payment trust among small vendors.* | **[View Photo]** |
+
+
+---
+
+
+*To add your entry to this log, submit your Scribe Form.*
+
+
+│   └── Teams-# Team Sensing Logs
+
+
+*Tracking the collective sensing work of early-stage groups.*
+
+
+These entries represent groups that went out together to map a specific system.
+
+
+---
+
+
+### 🚜 Team/Group: [Name/Topic]
+**Location:** [e.g., Samaru Agric Market]
+**Date:** [YYYY-MM-DD]
+
+
+**The Context:**
+[Short description of the location and the vibe.]
+
+
+**The Identified Friction:**
+[Description of the specific problem found. E.g., "Farmers are losing 20% of tomatoes because the truck scheduling is manual and relies on one middleman."]
+
+
+**Evidence Locker:**
+* 📸 **Photos:** [Link 1], [Link 2]
+* 🎥 **Video:** [Link to Walkthrough]
+* 🗣️ **Quotes:** "If the truck is late, the profit is gone." — *Local Vendor.*
+
+
+---
+
+
+### 🚌 Team/Group: [Name/Topic]
+**Location:** [e.g., Kwangila Flyover]
+**Date:** [YYYY-MM-DD]
+
+
+**The Context:**
+[Short description.]
+
+
+**The Identified Friction:**
+[Description of the problem.]
+
+
+**Evidence Locker:**
+* 📸 **Photos:** [Link]
+* 🗣️ **Quotes:** [Quote]
+
+
 │
-├──  Enactment
-│   ├── Teams
-│   └── Pods 
+├──  Enactment-# Enactment — The Builders' Assembly
+
+
+### "Code with Context."
+
+
+Enactment is the phase where insight turns into action. Having identified the problems in the Ground-Potentialising phase, our **Confirmed Teams** are now building Rapid Prototypes (MVPs) to address them.
+
+
+## 🛠️ The Process
+We are currently using **AI-Assisted Prototyping** to speed up the development cycle. Teams are required to push daily updates.
+
+
+## 📂 Navigation
+* **[🟢 Open Pods (Matchmaking)](./pods.md):** Looking for a team? Check here.
+* **[🔒 Confirmed Teams](./teams.md):** View the active development logs of full teams.
+
+
+## 📅 Key Dates
+* **Dec 03:** Team Formation (The Insight Lab).
+* **Dec 06:** The Builders' Assembly (Coding Session).
+* **Dec 09:** The Refinery (Mid-way Review).
+
+
+│   ├── Teams-# Confirmed Teams Directory
+
+
+These teams have completed the **"Meld"**, have a validated PRD (Project Requirement Doc), and are actively building.
+
+
+> **Click the Team Name to view their Daily Dev Log.**
+
+
+| Team Name | Domain | Solution One-Liner | Status |
+| :--- | :--- | :--- | :--- |
+| **[Team Alpha]** | *Agriculture* | *SMS-based inventory for onion farmers.* | 🚧 Prototyping |
+| **[Team Beta]** | *Finance* | *Rosca (Adashi) management on blockchain.* | 🧪 User Testing |
+| **[Team Gamma]** | *Transport* | *Ride-sharing coordination for students.* | 📝 Designing |
+
+
+---
+
+
+## 🏗️ Team Resources
+* **[Download PRD Template]([LINK])**
+* **[View Submission Guidelines](../05-Process/documentation.md)**
+
+
+│   └── Pods-# Pods & Matchmaking (Open Roles)
+
+
+**Don't hack alone. Join a Pod.**
+
+
+A **"Pod"** is a group forming around a specific problem statement. They are not yet a full team because they are missing key roles.
+* **To Join a Pod:** Contact the Pod Lead listed below or fill the **[Pod Interest Form]([LINK_TO_POD_FORM])**.
+
+
+---
+
+
+## 🟢 Active Pods (Recruiting)
+
+
+### ♻️ Pod: Waste-to-Value
+* **The Mission:** Creating a decentralized collection system for plastic waste in Sabon Gari.
+* **Current Members:** 2 (1 Backend Dev, 1 Researcher).
+* **⚠️ WE NEED:**
+    * **1 UI/UX Designer** (To design the collector app).
+    * **1 Scribe** (To document the process).
+* **Contact:** [Name/WhatsApp Link]
+
+
+---
+
+
+### 🏥 Pod: Medi-Record
+* **The Mission:** Simplifying patient record retrieval at local clinics using a simple QR system.
+* **Current Members:** 1 (Fullstack Dev).
+* **⚠️ WE NEED:**
+    * **1 Co-Founder/Researcher** (To interview doctors).
+    * **1 Frontend Dev**.
+* **Contact:** [Name/WhatsApp Link]
+
+
+---
+
+
+### 📚 Pod: Edu-Connect
+* **The Mission:** Offline-first learning resource sharing for Zaria students.
+* **Current Members:** 3 (Full Team).
+* **⚠️ WE NEED:**
+    * **1 Scribe/Storyteller** (To create the video pitch).
+* **Contact:** [Name/WhatsApp Link]
+
+
 │
 ├──  EVENTS
-│   ├── Event 1
-│   ├── Event 2
-│   ├── Event 3
+│   ├── Event 1-Onboardng call-https://youtu.be/qnQlFTYb00E
+│   ├── Event 2-Kick-off call-https://youtu.be/S-VFuFtx9t8
+│   ├── Event 3-
 │   └── Event 4
 │
 ├──  PROCESS
-│   ├── Enrolment
-│   ├── Documentation
-│   ├── Regenerative Develpment Principles
-│   ├── Mentoship and Support
-│   └── Timeline and Tooling
+│   ├── -# Enrolment Process
+
+
+**"We don't group by friendship. We group by Inquiry."**
+
+
+At Project Genius Hub, enrolment is not just filling a sign-up sheet. It is a filtering process designed to ensure every team is built on a solid foundation of local research.
+
+
+## 1. The "Driver" Profiling
+Every participant begins by filling the **(Driver Form)[https://tally.so/r/2EjjPD]**. This acts as a sensing tool to map the "Human Assets" of Zaria against local problems.
+* **We identify Roles:** Are you a Builder (Code), a Weaver (Context), or a Scribe (Docs)?
+* **We identify Domains:** Do you care about Waste, Transport, or Health?
+
+
+## 2. The "Sensing" Gate
+Before forming a team, participants must engage in **Ground-Potentialising**. You cannot build a solution for a problem you haven't seen.
+* **Solo/Group Fieldwork:** Participants visit markets, schools, or streets.
+* **Evidence:** They submit video/photo evidence of the problem.
+
+
+## 3. The "Meld" (Team Formation)
+We use the data from the Driver Form and Sensing phase to form **Pods**.
+* **The Pod:** A temporary cluster of people interested in the same problem (e.g., The "Waste Pod").
+* **The Team:** Once a Pod agrees on a PRD (Project Requirement Doc) and has the required mix (3 Tech / 2 Non-Tech), they become a **Confirmed Team**.
+
+
+## 🚀 Status
+* **[https://tally.so/r/2EjjPD]**
+* **[Link to Open Pods](../03-Enactment/pods.md)**
+
+
+│   ├── Documentation-# Documentation Strategy
+
+
+**"If it is not on the Docs, it did not happen."**
+
+
+We use a **"Scribe & Custodian"** model to ensure high-quality documentation without forcing every participant to master Git/obsidien immediately.
+
+
+## 1. The Role of the Scribe
+Every team must designate one member as the **Scribe**.
+* **Responsibility:** Capturing daily learnings, photos, code snippets, and failure logs.
+* **Tools:** Camera (Phone), Notepad, and the Submission Portal.
+
+
+## 2. The Submission Workflow
+We have removed the technical barrier. Teams do not push to Main.
+1.  **Capture:** The Team completes a task (e.g., User Interview or AI Prototype).
+2.  **Submit:** The Scribe fills the **[Daily Progress Form]([https://tally.so/r/A7rrok])**.
+    * *Uploads photos/videos to the Shared Drive.*
+    * *Writes the 200-word summary.*
+3.  **Publish:** The Hub Docs Custodian (Tech Lead-Kamal) reviews the entry, formats it into Markdown, and commits it to the Official Repository(Docs).
+
+
+## 3. Naming Conventions
+To keep our data organized, we use the following file naming structure in our archives:
+* `YYYY-MM-DD_TeamName_ActivityType`
+* *Example:* `2025-11-26_TeamWaste_MarketVisit.mp4`
+
+
+## 🔗 Quick Actions
+* **[👉 SUBMIT DAILY LOG HERE]([https://tally.so/r/A7rrok])**
+
+
+│   ├── Regenerative Develpment Principles-# Regenerative Development Principles
+
+
+**"Healing the System, Not Just Patching It."**
+
+
+Our Hackathon follows the Prisma/WADA framework for Regenerative Development. We are moving away from "Extractive Tech" (building apps to extract user data/money) towards "Regenerative Tech" (building systems that restore capacity to Zaria).
+
+
+## 1. Place-Sourced Potential
+* **The Principle:** Solutions must emerge from the unique essence of **Zaria**. We do not copy-paste Silicon Valley apps.
+* **In Practice:** We go to Sabon Gari market. We study the transport flow in Samaru. We build for *our* reality.
+
+
+## 2. Whole-Systems Thinking
+* **The Principle:** Do not solve a problem in isolation. Understand the upstream causes and downstream effects.
+* **In Practice:** If you build a waste recycling app, you must also understand the livelihood of the local bottle scavengers (Baban Bola). Does your app displace them or empower them?
+
+
+## 3. Potential over Problems
+* **The Principle:** Don't just fix what is broken. Look for what wants to grow.
+* **In Practice:** Instead of just "stopping trash," can we view waste as a "misplaced resource" that can generate energy or revenue for the community?
+
+
+## 4. Nested Systems
+* **The Principle:** Our project sits inside a larger system.
+* **In Practice:** Your Team sits inside the Hub. The Hub sits inside Zaria. Zaria sits inside the WADA network. We share learning across these levels.
+
+
+│   ├── Mentoship and Support-# Mentorship & Support
+
+
+**"You are not hacking alone."**
+
+
+We have structured three layers of support to ensure no team remains stuck for more than 24 hours.
+
+
+## Level 1: Peer Support (The Pods)
+* Check with your Pod members first.
+* Use the WhatsApp Group to ask: *"Has anyone solved this Vercel error?"*
+
+
+## Level 2: The Hub Technical Team
+* For blockers related to:
+    * **Code:** (AI integration, GitHub, Frontend bugs)
+    * **Docs:** (Submission issues)
+    * **Logistics:** (Venue access, Power)
+* **Action:** Fill the Request Form below.
+
+
+## Level 3: Expert Network (The Refinery)
+* We have a pool of subject matter experts (Lecturers, Founders, domain specialists).
+* Access to these experts is unlocked during **"The Refinery"** phase or by special request for high-performing teams.
+
+
+## 🆘 Request Help
+Stuck? Fill this form and we will deploy a mentor to you.
+
+
+**[👉 REQUEST MENTORSHIP FORM]([https://tally.so/r/Y5jlaW])**
+
+
+│   └── Timeline and Tooling-# Timeline & Tooling
+
+
+## 🛠️ The Stack (Tooling)
+We use a specific set of tools to enable **Rapid Prototyping** and **Deep Documentation**.
+
+
+* **Sensing:**
+    * Camera/Audio Recorder (Data Collection)
+    * Tally (Data Submission)
+* **Enactment (Building):**
+    * **AI LLMs:** (ChatGPT/Claude/Cursor/AugmentAI…etc) - Helps in generating boilerplate code fast.
+    * **Vercel:** For deploying your MVPs live.
+* **Documentation:**
+    * **Obsidian:** (Used by the Hub Team) to organize the knowledge graph
+ * **Obsidian:** (Used by the Hub Team) to organize the knowledge graph..
+    * **Markdown:** The language of our logs.
+
+
+---
+
+
+## ⏳ The Roadmap (Phases)
+
+
+### Phase 1: Sensing (Nov 24 - Dec 03)
+* **Focus:** Ground-Potentialising.
+* **Key Event:** The Insight Lab (Dec 3).
+* **Deliverable:** Problem Statement & PRD.
+
+
+### Phase 2: Enactment (Dec 03 - Dec 09)
+* **Focus:** Rapid Build.
+* **Key Event:** The Builders' Assembly (Dec 06).
+* **Deliverable:** Working Prototype (MVP) & Daily Logs.
+
+
+### Phase 3: The Refinery (Dec 09 - Dec 12)
+* **Focus:** Testing & Feedback.
+* **Key Event:** Stakeholder Review (Dec 09).
+* **Deliverable:** User Feedback Report & Iterated Code.
+
+
+### Phase 4: Harvest (TBD)
+* **Focus:** Final Polish & Submission.
+* **Key Event:** Grand Finale.
+* **Deliverable:** Final Case Study & Global Submission.
+
+
 │
 ├──  INCENTIVES
 │   ├── Ground-Potentialising Challenge
@@ -35,12 +418,178 @@ PROJECT GENIUS DOCS
 │   ├── Event 4 Recognition
 │   └── Leaderboard
 │
-└──   LEARNING LIBRARY
-    ├── Regenerative Development
-    ├── Case Studies
-    ├── Storytelling & Narrative Guides
-    ├── Systems Thinking Primer
-    └── FAQ
+└──   LEARNING LIBRARY-# 📚 Learning Library
+
+
+**"Tools for Thinking, Not Just Coding."**
+
+
+Welcome to the knowledge base. Here you will find the frameworks, mental models, and guides needed to succeed in the Project Genius Hub System Change Hackathon.
+
+
+## 🧠 Core Concepts
+* **[🌱 Regenerative Development](./regenerative-development.md):** Understanding the core philosophy of WADA and Prisma.
+* **[🕸️ Systems Thinking Primer](./systems-thinking.md):** How to see the whole picture (Actors, Flows, and Leverage Points).
+
+
+## 🛠️ Practical Guides
+* **[📖 Case Studies](./case-studies.md):** Real-world examples of what a "Regenerative Solution" looks like.
+* **[🗣️ Storytelling & Narrative](./storytelling-guides.md):** How to pitch your project to judges and stakeholders.
+
+
+## ❓ Help
+* **[FAQ](./faq.md):** Frequently Asked Questions about the Hackathon rules and logistics.
+
+
+    ├── Regenerative Development-# Regenerative Development: A Primer
+
+
+**Conventional Tech** asks: *"How can I scale this app to 1 million users and make money?"*
+**Regenerative Tech** asks: *"How can this solution heal the system and build capacity for the community?"*
+
+
+## The 3 Core Principles
+
+
+### 1. Place-Sourced Potential
+Every solution must be grounded in the unique reality of **Zaria**.
+* **Bad:** Copying an Uber model from San Francisco.
+* **Good:** Creating a tricycle (Keke) coordination system that respects how Zaria drivers already operate.
+* **Action:** Don't import solutions. Export the unique potential of our place.
+
+
+### 2. Whole-Systems Thinking
+You cannot solve a problem in isolation. Everything is connected.
+* **Example:** If you build a plastic recycling machine, where does the power come from? Who collects the plastic? Does it take jobs away from local scavengers, or does it help them earn more?
+* **Action:** Map the entire flow before you build the app.
+
+
+### 3. Potential, Not Just Problems
+We often obsess over "fixing what is broken." Regenerative development looks for "what wants to grow."
+* **Shift:** Instead of seeing "Waste" as a problem to be hidden, see it as "Resource" that can generate energy or materials.
+
+
+    ├── Case Studies-# Case Studies: What Good Looks Like
+
+
+Here are examples of how to apply Systems Thinking to local problems.
+
+
+## Case 1: The "Smart" Trash Can vs. The Community Hub
+* **The Problem:** Plastic bottles blocking drains in Sabon Gari market.
+* **❌ The Conventional Fix:** Build a "Smart Trash Can" with sensors that tells the government when it is full.
+    * *Why it fails:* Requires internet, batteries, and government trucks that might not exist.
+* **✅ The Regenerative Solution:** A "Waste-to-Value" exchange point where market women can trade plastic for phone credit. The plastic is processed locally into bricks.
+    * *Why it works:* It aligns incentives. It uses local labor. It turns waste into currency.
+
+
+## Case 2: The Transport App
+* **The Problem:** Students waiting too long for shuttles at Kongo Campus.
+* **❌ The Conventional Fix:** An Uber-style booking app.
+    * *Why it fails:* Data is expensive. Drivers don't look at maps while driving.
+* **✅ The Regenerative Solution:** A simple SMS/USSD queue system that alerts the Park Manager when demand spikes, allowing them to release more buses efficiently.
+    * *Why it works:* Low tech, high impact, fits existing behavior.
+
+
+    ├── Storytelling & Narrative Guides-# Storytelling & Narrative Guide
+
+
+When submitting your project to WADA/Prisma, you are not just submitting code. You are telling a story of change.
+
+
+## The "Context-First" Pitch Structure
+
+
+Do not start with "We built an App using Python." Start with the story.
+
+
+### 1. The Hook (The Ground)
+* "We went to Zaria Central Market and spoke to Amina, a tomato seller."
+* "She loses 40% of her stock because she cannot predict when the truck will arrive."
+
+
+### 2. The Insight (The Gap)
+* "We realized the problem isn't the truck; it's the *communication gap* between the driver and the seller."
+
+
+### 3. The Solution (The Enactment)
+* "We built 'Agri-Link', a simple USSD tool that connects them."
+
+
+### 4. The Impact (The Potential)
+* "By fixing this link, we don't just save tomatoes; we increase Amina's income by 40%."
+
+
+## Checklist for your Video Pitch
+* [ ] Did you show the physical location?
+* [ ] Did you interview a real user?
+* [ ] Did you show the prototype working?
+* [ ] Is the audio clear?
+
+
+    ├── Systems Thinking Primer-# Systems Thinking Primer
+
+
+When you go out for **Ground-Potentialising**, don't just look at the surface. Look at the system.
+
+
+## The Iceberg Model
+1.  **Events (What happened?):** "The drain is blocked."
+2.  **Patterns (Has it happened before?):** "The drain blocks every rainy season."
+3.  **Structure (Why does it happen?):** "There is no official waste collection, so people dump trash in the gutter."
+4.  **Mental Models (The deep belief):** "People believe 'Once I drop it, it's not my problem'."
+
+
+## How to Map a System
+To build a good solution, map these three things:
+
+
+### 1. The Actors
+Who is involved?
+* *Direct:* The User, The Customer.
+* *Indirect:* The Government, The Community, The Competitor.
+
+
+### 2. The Flows
+What moves between them?
+* Money? Information? Waste? Trust?
+
+
+### 3. The Leverage Point
+Where is the smallest change that creates the biggest impact?
+* *Example:* Changing the incentives (paying for trash) is a higher leverage point than just cleaning the gutter (reacting to trash).
+
+
+    └── FAQ# Frequently Asked Questions (FAQ)
+
+
+### 🛠️ Technical
+**Q: Do I need to use Git?**
+A: No. We have a **[Submission Form](../05-Process/documentation.md)**. You upload your files, and the Hub Team handles the GitHub commits.
+
+
+**Q: Can we use AI?**
+A: Yes! We encourage using ChatGPT, Claude, or Cursor to write code fast. The value is in the *System Design*, not just typing syntax.
+
+
+### 👥 Teams & Pods
+**Q: Can I change teams?**
+A: Yes, but please notify the Hub Lead.
+
+
+**Q: What if I don't have a team?**
+A: Join a **[Pod](../03-Enactment/pods.md)** or come to the Physical Meetup to get matched.
+
+
+### 🏆 Submission
+**Q: What counts as "Evidence"?**
+A: Photos of you in the field, videos of interviews, sketches of your ideas, and screenshots of your code.
+
+
+**Q: When is the deadline?**
+A: See the **[Timeline](../01-Home/agenda.md)** page.
+
+
 
 
 ________________
@@ -54,8 +603,6 @@ Intro paragraph:
  Project Genius Hub Zaria supports community-centred problem discovery, rapid prototyping and evidence-based solutions. We help local teams translate field research into clear, publishable submissions for Prisma and WADA while building local capacity and connecting projects to mentors and prizes.
 Quick actions (buttons / links):
 * Submit progress (Intake Form): [LINK_TO_GOOGLE_FORM]
-
-* Upload evidence (Drive Upload): [LINK_TO_SHARED_DRIVE]
 
 * Join a Pod (Matchmaking): [LINK_TO_POD_FORM]
 
@@ -71,15 +618,21 @@ Timeline (short table or bullets):
    * TBA — Grand Finale (Physical — Hub demo day & final upload)
 
 Who we are (short):
- Hub Leads: Alfred (Co-Lead) — [contact]
-Docs Custodian: Kamal — [contact]
-Git/Support: [Name] — [contact]
+Hub Lead: Alfred Itodole [https://www.linkedin.com/in/sirxalfred/]
+Technical Lead: Kamal — [contact]
+Operations Lead: Morgan — [contact]
+Media and Communications Lead:
+Team Support:
+Event Lead:
+Community Lead:
+Design Lead:
+
 What we expect of teams (short bullets):
       * Do field research in Zaria (talk to people, gather photos/video).
 
       * Upload 3 photos + 1 short video link + 200–300 word summary.
 
-      * If you can’t use Git, tick “Need Hub help” — we’ll publish on your behalf.
+      * Fill the forms and upload your evidence
 
 Footer quick links: How to submit | Events | Pods & Teams | Contact
 ________________
@@ -318,7 +871,7 @@ Requirements for final submission:
 
                                                       * PR opened by Kamal and merged before the organizer deadline
 
-Prizes & awards: local hub prizes + final winners that proceed to global evaluation.
+Prizes & awards: local hub prizes + final winners that proceed to global evaluation.[a][b]
 ________________
 
 
@@ -333,7 +886,7 @@ Steps to enrol:
 
                                                          3. Hub confirms registration and creates team folder or lists you in Pods.
 
-                                                         4. Teams that fail to register by the enrolment deadline risk missing PR practice slots.
+                                                         4. Teams that fail to register by the enrolment deadline risk missing out, and submission acknowledgment. 
 
 Key links: intake form, Drive upload, Pod sign-up
 ________________
@@ -342,7 +895,7 @@ ________________
 PROCESS — Documentation (the essential page)
 Purpose: single authoritative place listing exactly what a team must supply and how to name files.
 Title: Documentation — What you must submit
-Short intro: Teams upload to Drive; Hub will publish. To be accepted, every submission must include:
+Short intro: Teams upload to form; Hub will publish. To be accepted, every submission must include:
 Required items (checklist):
                                                             * submission.md — fully filled (use template)
 
@@ -517,3 +1070,9 @@ A: Templates are in the Templates folder of the repo and on the Hub Drive.
 A: Contact the Hub Git operator / Kamal and post in the support channel.
 
 ________________
+
+
+
+
+[a]create this on luma and share the luma api key and the eventid
+[b]How can i get this ?
