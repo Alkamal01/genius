@@ -19,19 +19,19 @@ interface ProfileCardProps {
     icon: ReactNode;
   }[];
   className?: string;
-  fetchTelegramData: (handle: string) => Promise<any>; 
-  telegramCache: Map<string, any>, 
+  fetchTelegramData: (handle: string) => Promise<any>;
+  telegramCache: Map<string, any>,
 }
 
-export const ProfileCard: FC<ProfileCardProps> = ({ 
-  name, 
-  role, 
-  profile_card_link, 
-  avatar, 
-  links = [], 
-  className, 
+export const ProfileCard: FC<ProfileCardProps> = ({
+  name,
+  role,
+  profile_card_link,
+  avatar,
+  links = [],
+  className,
   fetchTelegramData,
-  telegramCache, 
+  telegramCache,
 }) => {
   const [isOpen, setIsOpen] = useState(false);
   const [telegramData, setTelegramData] = useState<any>(null);
@@ -61,7 +61,7 @@ export const ProfileCard: FC<ProfileCardProps> = ({
     <div
       className={
         `relative flex flex-col items-center text-center rounded-xl 
-        border p-6 transition hover:border-[#c362ff]/50 
+        border p-4 transition hover:border-[#c362ff]/50 
         dark:border-neutral-700 bg-white dark:bg-gray-700/30 ${className}`
       }
     >
@@ -78,10 +78,10 @@ export const ProfileCard: FC<ProfileCardProps> = ({
           onClick={handleExpand}
           aria-label="Expand Profile"
         >
-          {isOpen ? <LuChevronsLeftRight size={20} rotate={30}/> : <LuChevronsLeftRight size={20} />}
+          {isOpen ? <LuChevronsLeftRight size={20} rotate={30} /> : <LuChevronsLeftRight size={20} />}
         </button>
       </div>
-      <div className="relative w-24 h-24 mb-4">
+      <div className="relative w-20 h-20 mb-2">
         {avatar ? (
           <Image
             src={avatar}
@@ -92,7 +92,7 @@ export const ProfileCard: FC<ProfileCardProps> = ({
           />
         ) : (
           <Avatar
-            size={96}
+            size={80}
             name={name}
             variant="beam" // Try others like 'marble', 'pixel', 'sunset', 'beam'
             square={false}
@@ -102,7 +102,7 @@ export const ProfileCard: FC<ProfileCardProps> = ({
       </div>
       <p className="text-lg font-semibold text-gray-800 dark:text-white">{name}</p>
       {role && <Link href={profile_card_link} className="text-md">{role}</Link>}
-      <div className="mt-4 flex flex-wrap justify-center gap-4">
+      <div className="mt-2 flex flex-wrap justify-center gap-4">
         {links.map((link, idx) => (
           <a
             key={idx}
@@ -116,7 +116,7 @@ export const ProfileCard: FC<ProfileCardProps> = ({
           </a>
         ))}
       </div>
-      
+
       {/* Popup Modal */}
       <ProfilePopupModal
         isOpen={isOpen}

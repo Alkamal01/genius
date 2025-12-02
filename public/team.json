@@ -1,89 +1,129 @@
 [
-    {
-      "name": "Alfred",
-      "role": "Evaluation",
-      "photo": "/alfred.jpeg",
-      "profile_card_link": "/processes/evaluation",
-      "links": [
-        { "label": "Meet", "url": "https://cal.com/shikharwah", "icon": "FaPhone" },
-        { "label": "LinkedIn", "url": "https://linkedin.com/in/shik", "icon": "FaLinkedinIn" },
-        { "label": "GitHub", "url": "https://github.com/regeneshik", "icon": "FaGithub" }
-      ]
-    },
-    {
-      "name": "Morgan",
-      "role": "Enaction",
-      "photo": "/morgan.jpeg",
-      "profile_card_link": "/processes/enactment",
-      "links": [
-        { "label": "Meet", "url": "https://cal.com/delfina-terrado", "icon": "FaPhone" },
-        { "label": "LinkedIn", "url": "https://www.linkedin.com/in/delfina-terrado/", "icon": "FaLinkedinIn" },
-        { "label": "Website", "url": "https://iniciativamurmullo.com/", "icon": "FaGlobe" }
-      ]
-    },
-    {
-      "name": "Aliyu Kamal",
-      "role": "Ground-Potential",
-      "photo": "/ak.png",
-      "profile_card_link": "/processes/ground-potentialising",
-      "links": [
-        { "label": "Meet", "url": "https://cal.com/mercy-wada", "icon": "FaPhone" },
-        { "label": "Website", "url": "https://www.wada.org", "icon": "FaGlobe" }
-      ]
-    },
-    {
-      "name": "Abdulaziz",
-      "role": "Infrastructure",
-      "photo": "/abdulaziz.jpeg",
-      "profile_card_link": "/processes/process-infrastructuring",
-      "links": [
-        { "label": "Meet", "url": "https://cal.com/tbsfchnr", "icon": "FaPhone" },
-        { "label": "LinkedIn", "url": "https://linkedin.com/in/tobias-fechner", "icon": "FaLinkedinIn" },
-        { "label": "GitHub", "url": "https://github.com/tbsfchnr", "icon": "FaGithub" }
-      ]
-    },
-    {
-      "name": "Amina",
-      "role": "Publishing",
-      "photo": "/amina.jpeg",
-      "profile_card_link": "/processes/ground-potentialising/deploy",
-      "links": [
-        { "label": "Meet", "url": "https://cal.com/tbsfchnr", "icon": "FaPhone" },
-        { "label": "GitHub", "url": "https://github.com/CarlosQ96", "icon": "FaGithub" }
-      ]
-    },
-    {
-      "name": "Sadiq",
-      "role": "Mentor",
-      "photo": "/sadiq.jpeg",
-      "profile_card_link": "https://www.arcaccra.com/ALJ%20Intensive/Teams/Bin%20to%20Cash/Home/",
-      "links": [
-        { "label": "Meet", "url": "https://cal.com/abdulrahman-umar-nqtqwa/15min", "icon": "FaPhone" },
-        { "label": "LinkedIn", "url": "http://www.linkedin.com/in/abdulrahman-umar", "icon": "FaLinkedinIn" },
-        { "label": "GitHub", "url": "https://github.com/AbdulRahman733", "icon": "FaGithub" }
-      ]
-    },
-    {
-      "name": "Atinuke",
-      "role": "Mentor",
-      "photo": "/atinuke.jpg",
-      "profile_card_link": "http://linkedin.com/in/ekowharding",
-      "links": [
-        { "label": "Meet", "url": "https://cal.com/ekow-harding-nsshpl/30min", "icon": "FaPhone" },
-        { "label": "LinkedIn", "url": "http://linkedin.com/in/ekowharding", "icon": "FaLinkedinIn" },
-        { "label": "X (Twitter)", "url": "https://x.com/mrharding3", "icon": "FaXTwitter" }
-      ]
-    },
-    {
-      "name": "Ruqayyah",
-      "role": "Mentor",
-      "photo": "/ruqayyah.jpeg",
-      "profile_card_link": "https://www.arcaccra.com/ALJ%20Intensive/Teams/Bin%20to%20Cash/Home/",
-      "links": [
-        { "label": "Meet", "url": "https://cal.com/abdulrahman-umar-nqtqwa/15min", "icon": "FaPhone" },
-        { "label": "LinkedIn", "url": "http://www.linkedin.com/in/abdulrahman-umar", "icon": "FaLinkedinIn" },
-        { "label": "GitHub", "url": "https://github.com/AbdulRahman733", "icon": "FaGithub" }
-      ]
-    }
-  ]
-  
+  {
+    "name": "Alfred Itodole",
+    "role": "Hub Lead",
+    "photo": "/alfred.jpeg",
+    "profile_card_link": "https://www.linkedin.com/in/sirxalfred/",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/sirxalfred/",
+        "icon": "FaLinkedinIn"
+      }
+    ]
+  },
+  {
+    "name": "Morgan",
+    "role": "Founder/Operations Lead",
+    "photo": "/morgan.jpeg",
+    "profile_card_link": "https://www.linkedin.com/in/morgan-ufuoma/",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/morgan-ufuoma/",
+        "icon": "FaLinkedinIn"
+      }
+    ]
+  },
+  {
+    "name": "Aliyu Kamal",
+    "role": "Technical Lead",
+    "photo": "/ak.png",
+    "profile_card_link": "https://www.linkedin.com/in/alkamal",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/alkamal",
+        "icon": "FaLinkedinIn"
+      }
+    ]
+  },
+  {
+    "name": "Media Lead",
+    "role": "Media and Communications",
+    "photo": "/amina.jpeg",
+    "profile_card_link": "https://bit.ly/45L8J1B",
+    "links": [
+      {
+        "label": "X (Twitter)",
+        "url": "http://bit.ly/4rvmVUQ",
+        "icon": "FaXTwitter"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://bit.ly/45L8J1B",
+        "icon": "FaLinkedinIn"
+      }
+    ]
+  },
+  {
+    "name": "Sadiq Bilyamin",
+    "role": "Technical Support",
+    "photo": "/sadiq.jpeg",
+    "profile_card_link": "https://www.linkedin.com/in/abubakar-sadiq-bilyamin-68552a259",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/abubakar-sadiq-bilyamin-68552a259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "icon": "FaLinkedinIn"
+      }
+    ]
+  },
+  {
+    "name": "Ruqqayyah Labo",
+    "role": "Community Lead",
+    "photo": "/ruqayyah.jpeg",
+    "profile_card_link": "https://x.com/ruqqayyah_laboh",
+    "links": [
+      {
+        "label": "X (Twitter)",
+        "url": "https://x.com/ruqqayyah_laboh?t=vbXECn3Iz51kDMh17XZ99w&s=09",
+        "icon": "FaXTwitter"
+      }
+    ]
+  },
+  {
+    "name": "Benjamin Gambo Yahaya",
+    "role": "Design Lead",
+    "photo": "/logo.png",
+    "profile_card_link": "https://www.linkedin.com/in/benjaminyahaya",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/benjaminyahaya",
+        "icon": "FaLinkedinIn"
+      }
+    ]
+  },
+  {
+    "name": "Abdulazeez Folaranmi Bello",
+    "role": "Technical Support",
+    "photo": "/abdulaziz.jpeg",
+    "profile_card_link": "https://www.linkedin.com/in/abdulazeez-folaranmi-bello-38b83419a",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/abdulazeez-folaranmi-bello-38b83419a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+        "icon": "FaLinkedinIn"
+      },
+      {
+        "label": "X (Twitter)",
+        "url": "https://x.com/ay_zed_?s=21",
+        "icon": "FaXTwitter"
+      }
+    ]
+  },
+  {
+    "name": "Muhammad Salman",
+    "role": "Event Lead",
+    "photo": "/logo.png",
+    "profile_card_link": "https://www.linkedin.com/in/muhammad-muhammad-salman-846ab9232",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/muhammad-muhammad-salman-846ab9232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "icon": "FaLinkedinIn"
+      }
+    ]
+  }
+]
