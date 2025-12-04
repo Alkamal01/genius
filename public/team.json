@@ -39,7 +39,7 @@
     ]
   },
   {
-    "name": "Media Lead",
+    "name": "Amina Ismail",
     "role": "Media and Communications",
     "photo": "/amina.jpeg",
     "profile_card_link": "https://bit.ly/45L8J1B",
@@ -96,6 +96,19 @@
     ]
   },
   {
+    "name": "Atimuke",
+    "role": "Event Lead",
+    "photo": "/atinuke.jpg",
+    "profile_card_link": "https://www.linkedin.com/in/muhammad-muhammad-salman-846ab9232",
+    "links": [
+      {
+        "label": "X (Twitter)",
+        "url": "https://x.com/web3_Lola",
+        "icon": "FaXTwitter"
+      }
+    ]
+  },
+  {
     "name": "Abdulazeez Folaranmi Bello",
     "role": "Technical Support",
     "photo": "/abdulaziz.jpeg",
@@ -115,8 +128,8 @@
   },
   {
     "name": "Muhammad Salman",
-    "role": "Event Lead",
-    "photo": "/logo.png",
+    "role": "Team support",
+    "photo": "/mm.jpg",
     "profile_card_link": "https://www.linkedin.com/in/muhammad-muhammad-salman-846ab9232",
     "links": [
       {
