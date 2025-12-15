@@ -3,6 +3,7 @@ export default {
   "credence": "Credence",
   "airchain": "AirChain",
   "eko-chain": "Eko Chain",
+  "safro": "Safro",
   "edix": "Edix",
   "ashaka-energy": "Ashaka Energy",
   "trustshield": "TrustShield",
@@ -12,4 +13,5 @@ export default {
   "the-tinkers": "The Tinkers",
   "dual-stream-engineers": "Dual Stream Engineers",
   "team-relentless": "Team Relentless",
+  "zero-chain": "Zero Chain",
 }
