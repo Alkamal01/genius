@@ -86,9 +86,8 @@ export const ProfileCard: FC<ProfileCardProps> = ({
           <Image
             src={avatar}
             alt={name}
-            width={200}
-            height={200}
-            className="rounded-full object-fill"
+            fill
+            className="rounded-full object-cover"
           />
         ) : (
           <Avatar
