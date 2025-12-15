@@ -1,9 +1,9 @@
-{
+export default {
     "index": "Home",
     "events": "Events",
     "process": "Process",
     "ground-potentialising": "Ground Potentializing",
-    "enactment": "Enactment (Projects)",
+    "teams": "Team",
     "incentives": "Incentives",
     "learning-library": "Learning Library"
 }

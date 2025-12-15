@@ -1,0 +1,1377 @@
+﻿Context Setting
+Form questions; 
+
+-How many team members there in total, that are actively participating in this team on a daily basis and have confirmed they'd like to join the team?
+
+Role domain and responsibilities
+
+
+
+
+Please upload a logo that is suitable on a dark background. That means the main elements should be light to be able to contrast. See potentialise.wada.org for examples. First impressions count - visuals make a difference.
+
+
+Team photo (optional)
+Same thing. First impressions count - visuals make a difference.
+
+
+
+
+Problem statement
+*
+Feel free to frame this in terms of potential ("Potential statements")
+
+
+
+
+Please describe the role your project plays in the region...
+*
+You may like to describe multiple levels of regionally nested systems.
+
+
+Please describe how you see the potential for change in your context...
+*
+You may like to describe where the systems are at today and how you see their potential to evolve to higher orders of capability. Please take care to describe something not too overly ambitious. You may like to describe this in terms of an end-state vision and the states leading up to that.
+
+
+ Scope of project
+*
+For the current phase of your project, what level of maturity are you working on?
+
+
+Degree of Cardano implementation
+*
+Select all that apply
+
+
+Please describe how your perception of your local context and its potential has changed over the course of the programme...
+*
+You may like to describe any surprises and key shifts that unlocked new insight. You may like to describe what purpose initially called your team into action.
+
+
+Please describe how you are organising yourselves to work on that potential...
+*
+Roles, resources, processes, structures etc…
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Team Doc Template;[a] 
+
+
+# 🌟 [Team Name]
+
+
+**The North Star:** [One sentence that captures the regenerative spirit of the solution.]
+
+
+---
+
+
+## 1. The Team
+
+
+| Role | Name | Responsibilities |
+| :--- | :--- | :--- |
+| **Lead / Weaver** | [Team Member 1 Name] | Strategic Direction, Community Liaison |
+| **Builder / Architect** | [Team Member 2 Name] | Cardano Integration, Back-end Logic |
+| **Scribe / Designer** | [Team Member 3 Name] | Documentation, UI/UX |
+| **...** | **...** | **...** |
+
+
+<img src="[Link to Team Logo (Light-on-Dark)]" alt="Team Logo" style="max-width: 150px; margin-top: 15px;">
+
+
+## 2. The Ground Truth (The Zaria Problem)
+
+
+### The Specific Friction
+
+
+[Describe the specific problem in Zaria context. *Example: In Sabon Gari, credit is given based on who knows your father, not your bank balance. This trust is locked in the physical world.*]
+
+
+### Direct Evidence
+
+
+> [Insert a short, powerful quote from a stakeholder in Zaria.]
+>
+> — *[Source: Name and Role of Stakeholder]*
+
+
+<div style="display: flex; gap: 10px; margin-top: 20px;">
+    <img src="[Photo URL: Team interviewing local user]" alt="Team conducting field research" style="width: 48%;">
+    <img src="[Photo URL: System map drawing of the friction point]" alt="Original System Map" style="width: 48%;">
+</div>
+
+
+## 3. The Regenerative Intervention (The System Flip)
+
+
+**Our Thesis:** [Explain your core hypothesis for change. *Example: We cannot replace the village elder; we must digitally empower their existing trust function.*]
+
+
+### The Solution Statement
+
+
+[How the solution works in simple, human terms. *Example: We provide a **Digital Vouching Protocol** where a pre-verified Community Anchor can digitally sign a Verifiable Credential (VC) for a new user, acting as a reusable digital introduction.*]
+
+
+### System Map: Before vs. After
+
+
+
+
+
+
+## 4. The Enactment (Code & Utility)
+
+
+### Technical Architecture
+
+
+* **Platform:** Cardano
+* **Key Tooling:** Atala PRISM (for DID), [Specific Smart Contract Language/Tool]
+* **Decentralization Rationale:** [Why Cardano is essential—e.g., for self-sovereign identity ownership.]
+
+
+### The Proof of Build
+
+
+<div style="text-align: center;">
+    <iframe width="560" height="315" src="[Link to Loom/YouTube Video Demo/Walkthrough (2-3 minutes)]" frameborder="0" allowfullscreen></iframe>
+    <p>*Watch a 2-minute walkthrough of the working prototype.*</p>
+</div>
+
+
+### Code & Live Links
+
+
+| Resource | Link |
+| :--- | :--- |
+| **GitHub Repository** | [Link to GitHub Repo] |
+| **Live Prototype/Demo** | [Link to Vercel/Live Demo URL] |
+| **Figma Design File** | [Link to Figma Prototype] |
+
+
+## 5. The Potential (Roadmap & Sustainability)
+
+
+### Next Steps
+
+
+* **Phase 1 (Post-Hackathon):** Pilot with 50 drivers/traders at [Specific Location].
+* **Phase 2 (Sustainability):** Integration of a governance token/treasury for long-term maintenance by the local community/union.
+
+
+### Call to Action
+
+
+We are seeking connections with [Specific Partner Type, e.g., Microfinance Institutions] interested in piloting trust-based credit scoring.
+Credence *
+🌟 Credence
+The North Star: Identity for everyone—verified by the people who know you. We are building the first identity system rooted in African community trust, not just documents.
+________________
+
+
+1. The Team
+Role
+	Name
+	Responsibilities
+	Lead / Architect
+	Kamal
+	SSI Strategy, Protocol Design (Atala PRISM), Partnerships
+	Builder / Blockchain
+	Mubarak
+	DID Integration, Verifiable Credential (VC) Flow
+	Weaver / Researcher
+	Lola
+	Field Research (Zaria Market/Campus), Stakeholder Vouching Process Mapping
+	Scribe / Designer
+	[Insert Scribe Name]
+	UI/UX, Documentation, Onboarding Flow
+	<img src="[Link to Credence Logo (Light-on-Dark)]" alt="Credence Logo" style="max-width: 150px; margin-top: 15px;">
+2. The Ground Truth (The Zaria Problem)
+The Specific Friction
+"In many parts of Zaria, up to 50% of adults lack formal ID. As a result, millions are locked out of the digital economy. While digital platforms demand documents, real life operates on Community Trust—the word of the Market Head or the religious leader."
+The problem is systemic exclusion:
+1. Exclusion: Women, youth, and informal workers are denied access to finance/services.
+2. Duplication: Verified users must repeat KYC everywhere, raising costs and frustration.
+3. Digital/Social Gap: Digital identity frameworks do not match how trust actually works in communities.
+Direct Evidence
+"We rely on community trust to prove who we are in real life. Most digital platforms don’t accept this type of verification. They ask for a national ID that many of us simply do not possess."
+— [Source: Name and Role of Stakeholder, e.g., Student/Trader at Zaria Market]
+<div style="display: flex; gap: 10px; margin-top: 20px;">
+<img src="[Photo URL: Team member interviewing market leader/elder]" alt="Team member conducting field interview on trust" style="width: 48%;">
+<img src="[Photo URL: Hand-drawn diagram showing manual vouching process in a local setting]" alt="Original Manual Vouching System Map" style="width: 48%;">
+</div>
+3. The Regenerative Intervention (The System Flip)
+Our Thesis: Identity is built through relationships, not just paperwork. We are building the protocol that validates these existing, trusted relationships.
+The Solution Statement
+Credence provides a reusable, privacy-first digital credential for everyone. We combine three approaches:
+1. AI Checks (for those with IDs).
+2. Community Vouching (for those without).
+3. Blockchain Proofs (for reusability and security).
+The core regenerative intervention is the Vouching Protocol where a pre-verified Community Anchor (e.g., Union Head) issues an on-chain Verifiable Credential (VC) attesting to a person's identity and reputation.
+Key Features (Uniqueness)
+* Reusable Credential: Platforms see the secure blockchain proof, not the documents.
+* Privacy-First: Users control their data and consent to verification.
+* Works for All: Inclusive design for users with or without formal IDs.
+System Map: Before vs. After
+The diagram should show the flow: Community Anchor signs VC -> VC is stored on-chain via DID -> Platform requests VC Proof -> Verification is instant and reusable.
+4. The Enactment (Code & Utility)
+Technical Architecture
+* Platform: Cardano
+* Key Tooling: Atala PRISM for Self-Sovereign Identity (SSI). We are creating and managing Decentralized Identifiers (DIDs) for every user and anchor.
+* Core Protocol: Issuance of W3C Verifiable Credentials (VCs) to capture the vouching relationship and store it immutably on Cardano.
+* Integration: Designed to interface with the RootsWallet (or a custom PWA wallet) for secure key management.
+The Proof of Build
+Our MVP demonstrates the Vouching Protocol lifecycle, from a Community Anchor scanning a new user's QR code to the instant verification by a third-party app (e.g., a mock loan platform).
+<div style="text-align: center;">
+<iframe width="560" height="315" src="[Link to Loom/YouTube Video Demo showing the Vouching Flow]" frameborder="0" allowfullscreen></iframe>
+<p>Watch the Vouching Protocol: How a local elder can digitally verify a new user in seconds.</p>
+</div>
+Key Success Metrics
+Metric Type
+	Target
+	Indicator
+	Systemic Impact
+	100+
+	Users who successfully receive a VC without using a government ID.
+	Community Trust
+	10+
+	Confirmed Community Anchors (Market Heads, Union Leads) actively issuing VCs.
+	Technical Quality
+	Seamless
+	Speed/Latency of VC verification by a third-party app.
+	Cardano Volume
+	500+
+	On-chain events (DID creation, VC issuance, VC verification).
+	Code & Live Links
+Resource
+	Link
+	GitHub Repository
+	[Link to Credence GitHub Repo]
+	Live Prototype/Demo
+	[Link to Live Demo URL]
+	Figma Design File
+	[Link to Vouching UI Prototype]
+	5. The Future Potential (Roadmap & Sustainability)
+The Evolution Pathway
+Credence starts in Zaria, but its model is globally applicable to informal economies.
+1. Phase 1 (Pilot): Secure deployment and integration with the Zaria Transport Union for membership verification and fee payment.
+2. Phase 2 (Scalability): Integration with a local financial partner to offer small, trust-based loans to users with a high Credence Vouching Score.
+3. The Vision: Credence becomes a foundational layer of identity, allowing African communities to digitally define their own inclusion criteria, reversing the trend of centralized exclusion.
+Call to Action
+We seek partnerships with organizations focused on Financial Inclusion and Decentralized Identity (SSI) to help audit and refine our VC schema, ensuring maximum security and interoperability.
+
+
+
+
+
+
+
+
+Form Question
+	Persuasive Response for Public Form
+	Problem Statement
+	Potential Statement: We see the potential to eliminate digital exclusion for millions in Zaria who lack formal IDs. Today, identity is a barrier, not a bridge. Our potential is to turn the informal, relational trust of the community (elders, market leaders) into a verifiable, reusable Cardano-based asset, granting access to finance and digital services for the unbanked.
+	Role your project plays in the region...
+	Credence serves as the Decentralized Identity Bridge between Zaria’s social fabric and the global digital economy. At the systemic level, it creates a model for inclusive governance by formally recognizing community trust. It ensures that digital transformation does not erase but rather empowers existing, trusted local relationships.
+	Potential for change in your context...
+	Today, the system enforces exclusion based on paperwork. We envision an end-state where a student or informal trader, regardless of ID ownership, can instantly prove their identity using a Credence Vouching Score. The steps involve: (1) Issuing DIDs to all participants via Atala PRISM; (2) Formalizing the Vouching Protocol where community anchors issue VCs; (3) Achieving interoperability with a local financial institution, enabling small, trust-based loans. This is a journey from paper-based exclusion to digital empowerment.
+	Scope of project (Maturity)
+	MVP (Minimum Viable Product). We are focused on launching the core Vouching Protocol lifecycle, demonstrating end-to-end issuance and verification of a Verifiable Credential (VC) in a test environment, ready for a small pilot integration.
+	Degree of Cardano implementation
+	Identity/DID, Smart Contracts, Wallet Abstraction.
+	Perception of local context changed...
+	Our initial purpose was to simplify KYC for businesses. The surprise came from the depth of exclusion—how many trustworthy people were barred because of one missing document. This shifted our purpose: the focus is not on technology for efficiency, but on technology for inclusion. We realized that identity is a relational asset, prompting us to build the system around validating the social trust that already exists on the ground.
+	How you are organising yourselves...
+	We are organized into Researchers (mapping local trust networks and testing flows with community anchors), Identity Architects (designing the Atala PRISM DID/VC schemas), and Developers (building the PWA and smart contract integrations). Our process includes continuous feedback loops with Zaria market leaders to ensure the digital solution mirrors the local, human-centered trust process.
+	
+
+build-a-tech *
+Team Name: build-a-tech
+
+
+Current Status: Cardano integration 
+
+
+Blockers/Support Needed: N/A
+
+
+Team Roster & Roles (Crucial):
+
+
+Abdulazeez Bello-  Builder (IoT Developer)
+
+
+Victor Ekanem - Builder (DevOps, Power Systems)
+
+
+Edidiong Udoh - Builder (Front End Dev and Digital Fabrication Engineer)
+
+
+Praise Peter Obike - Scribe (Community Manager/ Impact Assessment)
+
+
+Ndanso Udoh - Scribe ( Researcher and Finance)
+
+
+
+
+
+
+
+
+
+
+🌟 AirChain: The Community's Environmental Mirror
+The North Star: Making the invisible visible. AirChain is building the Cardano-powered, community-owned environmental intelligence network to drive regenerative action in Nigerian cities.
+________________
+
+
+1. The Team
+Role
+	Name
+	Responsibilities
+	Lead / System Architect
+	Abdulazeez Bello
+	Cardano Utility Flywheel, Project Strategy, Investor Relations
+	Builder / IoT Engineer
+	[Insert IoT Engineer Name]
+	Sensor Deployment, Data Pipeline, Hardware Durability
+	Weaver / Community Liaison
+	Abdulazeez Bello
+	Ground Truth, Behavioural Insights, Community Engagement
+	Scribe / Cardano Dev
+	[Insert Cardano Dev Name]
+	Smart Contracts (Tokenomics/Escrow), On-Chain Anchoring
+	<img src="[Link to AirChain Logo (Light-on-Dark)]" alt="AirChain Logo" style="max-width: 150px; margin-top: 15px;">
+2. The Ground Truth (The Zaria/Uyo Problem)
+The Specific Friction
+"Along the Aka Road corridor, air pollution from generators, traffic, and cooking is heavy but invisible. Because no monitoring exists, the community lacks feedback loops. Behaviour is driven by economic necessity and habit, not environmental awareness."
+This is a system shaped by invisibility and necessity. Key problems:
+1. Blindness: Pollution is constant but seen as harmless because it cannot be perceived.
+2. Externalized Responsibility: The community sees this as a 'government problem,' not a collective action problem.
+3. Data Vacuum: Institutions, NGOs, and solar vendors lack the reliable, verifiable, community-level data needed to deploy smarter interventions.
+Direct Evidence
+“I never get cancer since I start generator.” — Mr. Dennis.
+"This community is a vibrant community without a mirror—full of energy, but blind to its own ecological story."
+<div style="display: flex; gap: 10px; margin-top: 20px;">
+<img src="[Photo URL: AirChain team member next to a loud generator cluster]" alt="Team member observing evening generator cluster" style="width: 48%;">
+<img src="[Photo URL: Photo of roadside cooking/roasting activity]" alt="Roadside cooking generating local air pollution" style="width: 48%;">
+</div>
+3. The Regenerative Intervention (The System Flip)
+Our Thesis: Visibility + Incentives + Local Stewardship = Collective Action. By anchoring environmental data on Cardano, we turn ambient air quality into a shared, auditable asset managed by local youth.
+The Solution Statement
+AirChain is a full-stack environmental intelligence network. We deploy low-cost sensors, anchor the data on Cardano for immutability, and power a circular token economy that rewards the community for monitoring and improving its environment.
+The Cardano Utility Flywheel
+1. On-chain Environmental Data (Trust): Raw sensor data (PM2.5 spikes) is cryptographically signed and anchored on Cardano. This creates a tamper-proof, auditable, immutable record of local environmental health.
+2. Token-Powered API Marketplace (Utility): NGOs, government agencies, and climate investors pay for verified datasets and API access using the AirChain Native Token. This creates real, on-chain economic activity tied to environmental truth.
+3. Local Incentives: Student Stewards (paid members of campus clubs) and Sensor Hosts earn tokens for sensor uptime, maintenance, and running community workshops. This localizes legitimacy and ensures sustainability.
+System Map: Before vs. After
+The diagram shows the closed-loop system: Data feeds the blockchain, blockchain data powers the API, API revenue funds the token, tokens incentivize the community.
+4. The Enactment (Code & Utility)
+Technical Architecture
+* Data Anchoring: Cardano Ledger anchoring for immutable data logs.
+* Tokenomics: Aiken Smart Contracts manage the native token minting, staking logic for sensor owners, and escrow for API fee payments.
+* IoT: Low-cost, durable PM2.5 sensors with secure communication protocols.
+* Interface: Community Dashboards (Web App) showing Air Quality Scores and pollution alerts in real-time.
+The Proof of Build
+Our MVP demonstrates the core value proposition: Data Immutability and Incentive Flow. We can show a community dashboard that reflects real-time PM2.5 spikes, and we can prove the cryptographic signature and anchoring of that data on the Cardano Testnet.
+<div style="text-align: center;">
+<iframe width="560" height="315" src="[Link to Loom/YouTube Video Demo showing Dashboard and Data Anchoring]" frameborder="0" allowfullscreen></iframe>
+<p>Watch the Proof of Immortality: Real-time sensor data is instantly verifiable on the Cardano Testnet Explorer.</p>
+</div>
+Key Success Indicators (Metrics)
+Metric Type
+	Target
+	Indicator
+	Systemic Impact
+	80% Sensor Uptime
+	Reliability and maintenance by Student Stewards.
+	Community Action
+	40+ Active Users
+	Community members using the dashboard to inform decisions.
+	Economic Utility
+	API Revenue Active
+	Demonstration of the token-powered API fee mechanism.
+	Environmental
+	Improved Patterns
+	Measurable reduction in evening PM2.5 spikes (a long-term goal).
+	Code & Live Links
+Resource
+	Link
+	GitHub Repository
+	[Link to AirChain GitHub Repo (Sensor Code and Aiken Logic)]
+	Live Dashboard
+	[Link to Public AirChain Dashboard URL]
+	Tokenomics Document
+	[Link to Documentation detailing AirChain Token Utility]
+	5. The Future Potential (Roadmap & Sustainability)
+The Evolution Pathway
+AirChain is scalable to every high-density, air-strained community in Africa.
+1. Phase 1 (Pilot A): The "Cleaner Community Challenge" deployed with 25 sensors and token incentives to test the behavioral shift hypothesis.
+2. Phase 2 (Institutional Integration): Securing first API customer (e.g., Obudu Capital or Ministry of Environment) who pays the native token for verified datasets, closing the circular economy loop.
+3. The Vision: AirChain becomes the standard, open-source environmental intelligence protocol for emerging economies, turning community engagement into auditable climate data for global capital.
+Call to Action
+We seek collaboration with environmental NGOs and climate investors interested in funding a scalable Regenerative Finance (ReFi) model where the "Pledge" is verified by the "Proof" anchored on Cardano.
+
+
+
+
+
+
+
+
+
+
+Form Question
+	Persuasive Response for Public Form
+	Problem Statement
+	Potential Statement: We see the potential to reverse the invisibility of environmental risk in the Aka Road corridor. Today, the community is 'blind' to its own pollution, preventing behavioral change and smart investment. Our potential is to use Cardano to create a trustless, verifiable environmental mirror, enabling collective action and driving global capital into local climate solutions.
+	Role your project plays in the region...
+	AirChain is the Environmental Intelligence Network for the region. At the community level, it empowers citizens by giving them a Clean Air Score and real-time feedback. At the systemic level, it creates a unique ReFi Flywheel, turning raw sensor data into a paid, on-chain asset, funding local student stewards and rewarding sustainable behavior.
+	Potential for change in your context...
+	Today, behavior is driven by necessity; pollution is perceived as harmless. We envision an end-state where youth are paid data stewards, and institutions rely on AirChain’s verifiable data to fund solar initiatives. The path involves: (1) Deploying sensors to create visibility; (2) Anchoring all data on Cardano for auditability; (3) Establishing a token-powered API where NGOs pay in a native token for access; (4) Demonstrating a shift in generator-use patterns based on the air quality feedback loop.
+	Scope of project (Maturity)
+	Working Prototype (with Live Data Anchoring). We have a prototype sensor network and a functional web dashboard. Our current focus is finalizing the Aiken smart contracts for the native token and proving the end-to-end cryptographic anchoring of sensor data on the Cardano Testnet.
+	Degree of Cardano implementation
+	Smart Contracts, Native Tokens/NFTs, Identity/DID.
+	Perception of local context changed...
+	Our initial purpose was simply to collect data (the 'what'). We were surprised by the depth of the behavioral barrier—people didn't lack knowledge, they lacked a verifiable feedback loop. The key shift was realizing our purpose is not data collection, but data storytelling and incentive design. This led to the creation of the Cardano Utility Flywheel, making the token itself the engine of community action and economic sustainability.
+	How you are organising yourselves...
+	We are organized into an IoT/Hardware Team (sensor durability and deployment), a Cardano Protocol Team (Aiken contracts and anchoring logic), and a crucial Community Weaving Team (Campus Student Clubs who are trained and paid as data stewards to manage community engagement and interpretation). Our structure ensures that both technical reliability and local legitimacy are maintained.
+	
+
+Eko Chain *
+🌟 Eko Chain
+The North Star: Turning Zaria's pollution into verifiable wealth. We are building the Proof of Impact Protocol for Africa's informal circular economy.
+________________
+
+
+1. The Team
+Role
+	Name
+	Responsibilities
+	Lead / Architect
+	Bata
+	System Strategy, Cardano Tokenomics (Aiken), Partnership (Enactus)
+	Builder / AI Engineer
+	[Insert AI Engineer Name]
+	Edge AI Model Training (TensorFlow Lite), Mobile Integration
+	Weaver / UX Designer
+	[Insert UX/PWA Name]
+	Offline-First PWA, Collector Experience, Geofencing
+	Scribe / Documentation
+	[Insert Scribe Name]
+	Protocol Documentation, Impact Reporting, GitHub Management
+	<img src="[Link to Eko Chain Logo (Light-on-Dark)]" alt="Eko Chain Logo" style="max-width: 150px; margin-top: 15px;">
+2. The Ground Truth (The Zaria Problem)
+The Specific Friction
+"The $4.5 trillion circular economy is crippled by trust gaps. In Zaria, 90% of waste value is lost because the informal collector is invisible, unverified, and underpaid. Brands fear greenwashing, and collectors lack digital proof of their immense labor."
+Eko-Chain addresses the Information Asymmetry that makes the informal market predatory:
+1. No Data: Waste collection happens offline, making it invisible to global impact buyers.
+2. No Trust: Buyers discount prices due to fear of contamination.
+3. No Scale: Human verification is too slow and expensive for millions of micro-transactions.
+Direct Evidence
+"We are spending our own capital and time manually auditing batches. It is a slow, expensive bottleneck. If the system doesn't trust the collector, the collector can't grow."
+— [Source: Name of Partner/Collector, e.g., Facility Manager at PUP Industries]
+<div style="display: flex; gap: 10px; margin-top: 20px;">
+<img src="[Photo URL: Eko-Chain team or collector standing with pile of plastic waste in Zaria]" alt="Collector standing with large bag of plastic waste" style="width: 48%;">
+<img src="[Photo URL: Hand-drawn diagram of current manual payment/verification flow]" alt="Original Manual Waste Flow System Map" style="width: 48%;">
+</div>
+3. The Regenerative Intervention (The System Flip)
+Our Thesis: We must digitize the "Proof of Pickup" (PoP) using impartial technology (AI) to unlock global credit value for the local collector.
+The Solution Statement
+Eko-Chain is the Operating System for the Informal Economy. We are building a mobile protocol that combines Edge AI for automated waste grading, CIP-68 Evolving NFTs for traceability, and Dual-Asset Tokenomics (Commodity + Plastic Credit) to double collector income and provide auditable ESG data to brands.
+Radical Innovation (The Four Pillars)
+1. AI-Native Proof of Pickup (PoP): Collector's mobile app uses Edge AI (TensorFlow Lite) to classify material and estimate volume before the transaction is signed. This replaces fallible human data entry.
+2. Dual-Asset Tokenomics: When a batch is verified, the contract mints two distinct assets: the physical Commodity Token (sold locally) and the Plastic Credit Token (sold globally). This enables collectors to earn from both the trash and the truth.
+3. Offline-First Architecture: Transactions are signed offline using the device's secure enclave and queued. When connectivity returns, the transactions batch-sync to the Cardano blockchain, making the UX feel instantaneous.
+4. DID-Based Reputation: Collectors are issued a DID via Atala PRISM. High-trust scores earned through verified collections unlock Auto-Verification privileges, eliminating bottlenecks.
+System Map: Before vs. After
+The diagram should show the flow: Collector (AI/Offline App) -> CIP-68 NFT Minting -> Dual Token Split -> Global Brand (Credit Buyer).
+4. The Enactment (Code & Utility)
+Technical Architecture
+* Platform: Cardano Mainnet
+* Smart Contracts: Aiken (Plutus V2) enforcing CIP-68 (Evolving NFTs) for mutable metadata and traceability.
+* Scalability: Planned use of Hydra Heads for high-throughput, sub-second settlement of micropayments and batch minting between local participants.
+* Identity: Atala PRISM / RootsID for Verifiable Credentials (VCs) to certify Collectors and Verifiers.
+The Proof of Build
+We will launch a Production-Grade Protocol that demonstrates the full "Waste-to-Wealth" lifecycle, aiming for: 5,000+ Mainnet transactions and 50,000kg of waste diverted during the pilot.
+<div style="text-align: center;">
+<iframe width="560" height="315" src="[Link to Loom/YouTube Video Demo showing AI Classification and Token Minting]" frameborder="0" allowfullscreen></iframe>
+<p>Watch the AI-Assisted Minting: Collector points phone, AI classifies plastic, transaction splits automatically.</p>
+</div>
+Key Success Metrics
+Metric Type
+	Target
+	Indicator
+	Systemic Impact
+	50,000 kg
+	Plastic waste verified on-chain.
+	Social Impact
+	30% Increase
+	Average collector earnings increase.
+	Technical Quality
+	>85%
+	Accuracy of Edge AI material classification.
+	Cardano Volume
+	5,000+
+	Mainnet transactions (Minting, Splitting, Retiring).
+	Code & Live Links
+Resource
+	Link
+	GitHub Repository
+	[Link to Enactus ABU GitHub Repository]
+	Live Demo/DApp
+	https://app.ekochain.xyz/
+	AI Classifier Demo
+	https://ai.ekochain.xyz/ (Upload a photo to test the model)
+	5. The Future Potential (Roadmap & Sustainability)
+The Evolution Pathway
+Eko-Chain is designed to become the standard for impact verification.
+1. Phase 1 (Pilot): Integration with our existing Enactus ventures (PUP and Tompa Industries) in Zaria to validate the Dual-Asset Tokenomics.
+2. Phase 2 (Scaling): Expansion to the larger Enactus network (35 countries), representing a potential 100x increase in Cardano's real-world utilization and bringing ADA to the Bottom Billion.
+Call to Action
+We seek active collaboration with established ReFi protocols and Cardano partners to co-develop the final Plastic Credit standard, ensuring interoperability and global market access for Zaria's collectors.
+
+
+
+
+
+
+
+
+Form Question
+	Persuasive Response for Public Form
+	Problem Statement
+	Potential Statement: We see the potential to unlock a $4.5 Trillion hidden economy in Zaria. Today, 90% of waste value is lost because the informal collector is invisible, unverified, and underpaid. Our potential is to turn environmental pollution into a verifiable, dual-asset class on Cardano, printing money from trash while solving the global greenwashing crisis.
+	Role your project plays in the region...
+	Eko Chain acts as the Digital Operating System for Zaria’s Informal Economy. At the micro-level, it doubles the income of the poorest collectors. At the systemic level, it creates the first auditable link between local collection efforts and global ESG capital, validating African environmental action. It transforms waste collection from a chaotic necessity into a dignified, tokenized supply chain.
+	Potential for change in your context...
+	Today, the system is opaque and predatory. We envision an end-state where every piece of plastic collected in Zaria carries a cryptographic signature proving its origin. The steps leading up to this include: (1) Establishing AI-Native Proof of Pickup; (2) Doubling collector income via Dual-Asset Tokenomics (Commodity + Credit); (3) Creating a system so trustworthy that global brands must buy their plastic credits from Zaria. Our ambition is to show how verifiable data can solve global problems locally.
+	Scope of project (Maturity)
+	Production-Grade Protocol (MVP focused on mainnet deployment). We are building a production-grade protocol on Cardano Mainnet, demonstrating the full "Waste-to-Wealth" lifecycle, including AI-Assisted Minting, Dual-Asset Token Splitting, and Offline Sync capabilities.
+	Degree of Cardano implementation
+	Smart Contracts, Identity/DID, Native Tokens/NFTs (CIP-68), Wallet Abstraction.
+	Perception of local context changed...
+	We were initially focused on the logistics of waste (the 'what'). Our key shift was realizing the core problem was trust and invisibility (the 'why' and 'how'). We were surprised by the high financial loss due to lack of verifiable data. This unlocked the insight that our purpose is not recycling, but tokenizing truth. The project evolved from a supply chain app to a RealFi protocol that uses Cardano to grant dignity and economic power to the collector.
+	How you are organising yourselves...
+	We are organized as a multi-disciplinary unit: Architects (Aiken smart contract), Builders (Edge AI and PWA development), and Weavers (Local Enactus partners who run the real-world recycling businesses). Our process is Agile/Scrum with bi-weekly public updates, ensuring transparent development in a public GitHub repository. Our resources include existing production lines (PUP Industries) for immediate, real-world pilot testing.
+	
+
+Edix *
+🌟 Edix: School Management System
+The North Star: Turning school data into sovereign student assets. Edix leverages Cardano to issue lifelong, verifiable academic credentials and ensure data ownership for the next generation of Zaria.
+________________
+
+
+1. The Team
+Role
+	Name
+	Responsibilities
+	Lead / Product Strategist
+	Yuguda
+	Product Vision, Multi-Tenancy Architecture, AI Integration
+	Builder / Blockchain Architect
+	[Insert Builder Name]
+	Atala PRISM Integration, VC Schema Design, Cardano Interoperability
+	Weaver / Education Specialist
+	[Insert Weaver Name]
+	User-Centric Insights, Curriculum Design, Teacher Workflow Optimization
+	Scribe / Full Stack Dev
+	[Insert Scribe Name]
+	FastAPI Back-end, PostgreSQL Integration, Documentation
+	<img src="[Link to Edix Logo (Light-on-Dark)]" alt="Edix Logo" style="max-width: 150px; margin-top: 15px;">
+2. The Ground Truth (The Zaria Problem)
+The Specific Friction
+"In Zaria, a student's entire academic history—from attendance to exam results—is trapped in paper files or proprietary databases. When they move schools, apply for a job, or seek a loan, their history is difficult to prove, easy to forge, and expensive to retrieve."
+The current system creates data vulnerability:
+1. Identity Loss: When a student leaves a school, their data and achievements often stay behind, fragmented across silos.
+2. Verification Friction: Employers and universities in Nigeria require costly, time-consuming manual verification (e.g., printing and stamping transcripts).
+3. Data Blind Spots: Despite using modern tools, schools lack a unified, trustworthy system to issue verifiable credentials (VCs) that follow the student for life.
+Direct Evidence
+"We struggle to transfer records accurately between institutions. And when parents ask for proof of academic history from five years ago, it takes a full day of searching paper archives. There is no trustless, instant record."
+— [Source: Name and Role of Stakeholder, e.g., School Administrator at a Zaria Private School]
+<div style="display: flex; gap: 10px; margin-top: 20px;">
+<img src="[Photo URL: Administrator struggling with piles of paper files/ledgers]" alt="School Administrator managing paper records" style="width: 48%;">
+<img src="[Photo URL: A digital whiteboard/diagram showing data silos between Admin, Teacher, and Student]" alt="Diagram showing fragmented data silos in current school systems" style="width: 48%;">
+</div>
+3. The Regenerative Intervention (The System Flip)
+Our Thesis: The student is the rightful owner of their educational record. We use Cardano to transform academic data from a school liability into a sovereign student asset.
+The Solution Statement
+Edix is an AI-powered school management system with a Cardano layer for verifiable credentials. We separate the operational data (which stays Web2 for speed) from the credentialing data (which goes on-chain for trust).
+The Cardano Integration (The "Midnight Do")
+1. Student SSI: Every student, teacher, and school receives a Decentralized Identifier (DID) using Atala PRISM. This creates a lifelong digital identity.
+2. Grade Vouching: Upon completion of a course or session, the school's admin mint a Verifiable Credential (VC) for the student (e.g., "Completed SSCE Math, Grade A").
+3. Proof of Attendance: The Edix attendance record (AI-verified) is summarized and issued as a tamper-proof VC, solving the manual attendance verification problem for immigration or transfers.
+4. Lifelong Wallet: The VCs are stored in the student's digital wallet, allowing them to instantly share tamper-proof academic proof with any university or employer globally.
+System Map: Before vs. After
+The diagram shows the traditional Web2 platform feeding confirmed data points into the Atala PRISM issuer service for on-chain VC issuance.
+4. The Enactment (Code & Utility)
+Technical Architecture
+* Operational Layer (Web2): FastAPI (Python) + React + PostgreSQL for high-speed AI functions (Lesson Planning, Grading) and day-to-day CRUD operations.
+* Trust Layer (Cardano): Atala PRISM for SSI.
+* Data Model: We utilize the W3C Verifiable Credential (VC) data model to structure academic achievements as portable, cryptographically secure documents.
+The Proof of Build
+Our MVP demonstrates the complete lifecycle of a Grade VC. A teacher inputs a final grade into the Edix gradebook (Web2), and the system automatically triggers the school's DID to issue the final VC to the student's wallet (Cardano).
+<div style="text-align: center;">
+<iframe width="560" height="315" src="[Link to Loom/YouTube Video Demo showing VC issuance after grading]" frameborder="0" allowfullscreen></iframe>
+<p>Watch the VC Issuance: Teacher finalizes grade, student instantly receives a verified digital transcript in their wallet.</p>
+</div>
+Key Success Metrics
+Metric Type
+	Target
+	Indicator
+	Systemic Impact
+	500+
+	Students registered with a sovereign Cardano DID.
+	Credential Utility
+	500+
+	Total VCs issued (Grades, Certificates, Attendance Proofs).
+	Operational Efficiency
+	60%
+	Reduction in teacher time spent on administrative tasks (due to AI/CBT).
+	Security/Trust
+	100%
+	Accuracy and Tamper-Proof nature of VCs (verified on-chain).
+	Code & Live Links
+Resource
+	Link
+	GitHub Repository
+	[Link to Edix GitHub Repo]
+	Live Demo/SaaS
+	[Link to Edix Demo/Login Portal]
+	VC Schema Docs
+	[Link to Documentation of the W3C VC Schema used]
+	5. The Future Potential (Roadmap & Sustainability)
+The Evolution Pathway
+Edix becomes the on-ramp for young Africans into the digital economy, using their verified academic records as their first form of social collateral.
+1. Phase 1 (Pilot): Successful deployment and VC issuance across 3 Zaria pilot schools.
+2. Phase 2 (Finance Integration): Integration with a local decentralized lending platform (or a bank) to allow students/alumni to use their verifiable academic records (VCs) as collateral for small study loans.
+3. The Vision: To build the largest decentralized educational credentialing network in Africa, ensuring that no student's history is ever lost due to paperwork or institutional failure.
+Call to Action
+We seek technical mentorship from the Atala PRISM team and strategic guidance from educational NGOs to ensure our VC schemas meet global standards for academic credentialing.
+
+
+
+
+
+
+Form Question
+	Persuasive Response for Public Form
+	Problem Statement
+	Potential Statement: We see the potential to reverse the loss of academic identity for every student in Zaria. Today, a student's entire history is trapped in school silos, making it vulnerable and hard to prove. Our potential is to use Cardano to transform academic history from a school's liability into a sovereign, lifelong student asset.
+	Role your project plays in the region...
+	Edix is the Digital Foundation and Credential Layer for Zaria’s educational system. At the micro-level, it frees teachers from 60%+ of administrative burden using AI. At the systemic level, it creates a trustless meritocracy by ensuring that educational achievements are instantly verifiable and owned by the student, not a centralized database.
+	Potential for change in your context...
+	The current system is fragmented and non-portable. We envision an end-state where every Edix student leaves school with a personal DID-wallet containing all their Verifiable Credentials (VCs) (grades, attendance, certifications). The path involves: (1) Integrating AI tools (Lesson Planner, CBT) to stabilize and automate the Web2 side; (2) Establishing the Atala PRISM VC Issuance Protocol; (3) Demonstrating the use of a Grade VC as collateral for a small loan, proving the economic value of sovereign data.
+	Scope of project (Maturity)
+	MVP (Minimum Viable Product). The project has a production-ready Web2 core (AI/Analytics) and is focused on integrating the Minimal Viable Cardano Component (MVCC): the issuance of one type of Verifiable Credential (VC) upon grade finalization.
+	Degree of Cardano implementation
+	Identity/DID, Identity/VCs.
+	Perception of local context changed...
+	We began by tackling the administrative burden (the 'what' of the teacher's day). The surprise was realizing that our efficient Web2 data collection was merely creating better data silos. This led to the key shift: our purpose must be to ensure data portability and sovereignty. We recognized that if a student owns their data via Cardano DID, they become the custodian of their own future, transforming our project from a management tool into a digital rights platform.
+	How you are organising yourselves...
+	We are organized into two parallel streams: the FastAPI/React Core Team (building the AI and analytics) and the Blockchain Integration Team (designing the DID/VC schema and integrating the PRISM issuer API). Our structure ensures that the Web2 speed is maintained while the Cardano layer guarantees the long-term truth and sovereignty of the data.
+	
+
+WA_SKYFISH25
+Team Name:
+WA_SKYFISH25
+
+
+Current Status:
+Development stage
+
+
+Blockers/Support Needed:
+Cardano Dev Environment walkthrough
+
+
+Team Roster & Roles: Henry Daniel  – Backend (Team Lead)
+Blessed David - UIUX
+Enioluwa Bankole – Frontend
+Abdulhameed Abdulsalam - LLM
+Abdullahi Abdulsalam LLM
+
+
+🌟 Ashaka Energy Commons Protocol
+The North Star: Turning energy scarcity into community accountability. We are building a decentralized trust layer to coordinate, manage, and verify energy resources in Ashaka community.
+________________
+
+
+1. The Team
+Role
+	Name
+	Responsibilities
+	Lead / Architect
+	Henry Daniel
+	System Design, Community Governance Integration, Project Strategy
+	Builder / Cardano Dev
+	[Insert Builder Name]
+	Smart Contracts (Token Access/Recognition), Blockchain Anchoring
+	Weaver / Field Researcher
+	[Insert Weaver Name]
+	User Insight, Local Leadership Integration, Community Validation
+	Scribe / Mobile Dev
+	[Insert Scribe Name]
+	Mobile-First Platform (PWA) Development, Documentation
+	[Link to WA_SKYFISH25 Logo (Light-on-Dark)]
+2. The Ground Truth (The Ashaka Problem)
+The Specific Friction
+Ashaka community faces a prolonged, structural electricity challenge. Supply is unreliable, available only at night, and with low current. This has disrupted normal economic activity and forced reliance on expensive, polluting generators. Beyond the supply issue, the community lacks a shared, trusted system to make payments, maintenance, and usage visible and accountable. Energy-related transactions are fragmented, informal, and prone to conflict. This is a crisis of coordination and trust.
+Direct Evidence
+“Generator na survival for this business. We need proof that the money we pay will actually translate to power, not just a promise.”
+— [Source: Name of Stakeholder, e.g., Local Miller in Ashaka]
+[Photo URL: Team interviewing local user] (Team conducting field research)
+[Photo URL: System map drawing of the friction point] (Original System Map: fragmented payment/contribution flows)
+3. The Regenerative Intervention (The System Flip)
+Our Thesis: We cannot fix the unreliable grid immediately; we must first organize the community around its limited energy resources using a Shared Ledger. The system needs to digitize the existing social legitimacy of local leaders.
+The Solution Statement
+We provide the Ashaka Energy Commons Protocol, a mobile-first platform that allows residents to report power events, view energy patterns, and purchase prepaid Payment-Backed Power Access Tokens for community resources. Crucially, local leaders (Ward Heads) are embedded as on-chain verifiers to attest to events and contributions. This makes the invisible accountable, strengthening trust.
+System Map: Before vs. After
+[Link to System Map: Diagram showing local PWA interfacing with Cardano, with local leaders as the crucial verification layer for contributions and access tokens.]
+4. The Enactment (Code & Utility)
+Technical Architecture
+* Platform: Cardano
+* Key Tooling: Aiken (Smart Contract logic for token access and recognition), CIP-25/68 (for tokens)
+* Decentralization Rationale: Cardano is essential to ensure that the ledger of payments, contributions, and energy event attestations is immutable, auditable, and tamper-resistant by the community itself, eliminating disputes and rebuilding long-term trust.
+The Proof of Build
+[Link to Loom/YouTube Video Demo/Walkthrough (2-3 minutes)] (Watch the Commons Flow: Reporting a fault, earning a recognition token, and purchasing prepaid access.)
+Code & Live Links
+Resource
+	Link
+	GitHub Repository
+	[Link to GitHub Repo]
+	Live Prototype/Demo
+	[Link to Mobile PWA Demo URL]
+	Governance Doc
+	[Link to Document detailing Committee/Oracle Roles]
+	5. The Potential (Roadmap & Sustainability)
+Next Steps
+* Phase 1 (Post-Hackathon): Pilot deployment with the Ashaka Electrification Committee, integrating 5 local leaders as on-chain verifiers and tracking 200 prepaid access tokens.
+* Phase 2 (Sustainability): Integration with a new community solar mini-grid, using the transparent ledger to attract verifiable local investment and scale the recognition token system.
+Call to Action
+We are seeking connections with Energy Sector NGOs and Mini-Grid Developers interested in piloting the Accountability-as-a-Service model for community-governed energy infrastructure.
+
+
+________________
+
+
+
+
+
+
+
+
+Public Registration Form Responses 
+
+
+⚡ Team WA_SKYFISH25: Ashaka Energy Commons Protocol
+-Problem Statement
+We see the potential to transform energy poverty into energy resilience in communities like Ashaka. Today, unreliable electricity is a crisis of trust and coordination, not just infrastructure. Our potential is to use Cardano to create a transparent, immutable ledger for energy payments, contributions, and access, empowering the community to self-govern its limited power resources and rebuild trust in the process.
+
+
+-Role your project plays in the region...
+The Ashaka Protocol plays the role of a Decentralized Energy Coordinator and Trust Restorer. At the regional level, it offers a scalable model for coordinating hybrid energy systems (grid + solar + generators). At the community level, it restores faith in collective action by making all energy-related transactions—from maintenance labor to prepaid access—visible and auditable by the residents and their local leaders.
+
+
+-Potential for change in your context...
+Today, the system is fragmented and prone to conflict due to invisibility. We envision an end-state where the Ashaka community is a self-governing Energy Commons. The path involves: (1) Digitizing social legitimacy by embedding local leaders as on-chain verifiers; (2) Creating a culture of accountability through Recognition Tokens for stewardship; (3) Attracting future investment by proving, via an immutable Cardano ledger, that the community has a functional, transparent payment and maintenance system. This leads from chaos to coordinated resilience.
+
+
+-Scope of project (Maturity)
+Working Prototype. We have a functional mobile platform integrated with local leadership verification. Our current focus is on securing the Cardano-based token logic (Access Tokens and Recognition Tokens) and proving the end-to-end transaction lifecycle on the Testnet, demonstrating immutability for critical energy events and contributions.
+Degree of Cardano implementation
+Smart Contracts, Native Tokens/NFTs, Identity/DID.
+
+
+-Perception of local context changed...
+Our initial purpose was to track energy usage (a purely technical problem). The key shift was realizing that the biggest deficit was social capital, not technical capacity. We were surprised that users were more motivated by Recognition Tokens (for reporting faults) than by immediate financial savings. This unlocked the insight that our solution must be built on local social legitimacy. Our purpose evolved to using Cardano as the ultimate tool for social governance and dispute resolution in the energy sector.
+
+
+-How you are organising yourselves...
+Our organization is rooted in the community. Team Lead Henry Daniel handles strategy and local partnership with ward committees. The Builder focuses on the Aiken smart contracts for token utility and anchoring. Crucially, we work with existing local structures (youth groups and electrification committees) who are trained to be the decentralized oracles, confirming real-world energy events and maintenance, ensuring the digital system is grounded in social reality.
+
+
+Hacktivists
+Team Name:
+Hacktivists
+
+
+Current Status:
+Development stage
+
+
+Blockers/Support Needed:
+Will need another front end or backend developer.
+
+
+Team Roster & Roles:
+Yusuf Barkido Shibkau  – Builder /Full Stack (Team Lead)
+Ibrahim Abdulsalam– Builder (scribe)
+Keshinro Mus'ab– Builder (LLM)
+Abdulfatai Akanbi Ajeigbe– Builder (UI /IXDesigner)
+
+
+
+
+Team Docs Template 
+🌟 TrustShield Protocol: The Urban Digital Credit Commons
+The North Star: Replacing predatory surveillance and shaming with regenerative social collateral, building a decentralized credit system where dignity is the standard and trust is sovereign.
+________________
+
+
+1. The Team
+Role
+	Name
+	Responsibilities
+	Lead / Architect
+	[Team Lead Name - If different from Henry Daniel]
+	Project Strategy, Investment Logic (Steward Model), Pentad Pitch
+	Builder / ZK & Smart Contract Dev
+	[Developer Name]
+	Deploying the ZK-Proof logic, Staking and Slashing Contracts (Rust/Solidity)
+	Weaver / Financial Modeler
+	[Team Member Name]
+	Modeling Trust Pools, Community Shield Fund, Repayment Simulation
+	Scribe / UX Designer
+	[Team Member Name]
+	"Dignity Dashboard" UI, Panic-Free UX, Documentation
+	[Link to TrustShield Logo (Light-on-Dark)]
+2. The Ground Truth (The Digital Credit Crisis)
+The Specific Friction
+In Nigeria, salary delays and cash flow gaps force salaried workers and market traders toward digital loan apps. These apps enforce repayment through weaponized shaming: scraping contact lists and sending defamatory messages ("thief," "criminal") to the user's entire network. This system extracts exorbitant fees (up to 120% APR) and traps responsible borrowers in a debt cycle, while completely destroying social capital and causing high anxiety and hypertension.
+Direct Evidence
+“The 9 AM Call is a weapon. You live in fear of your employer or church elder receiving a message that labels you a thief. I would rather pay the interest than face social execution.”
+— [Source: Salaried Worker / Informal Trader in Lagos]
+[Photo URL: Team interviewing local user] (Team conducting interviews on loan harassment/shaming)
+[Photo URL: System map drawing of the friction point] (Original System Map: Showing the Shaming Spiral: Default -> Harassment -> Social Isolation -> Further Default)
+3. The Regenerative Intervention (The System Flip)
+Our Thesis: Creditworthiness should be defined by character and community standing, not by the amount of data a person is forced to surrender. We will replace Algorithmic Extraction with Regenerative Social Collateral.
+The Solution Statement
+The TrustShield Protocol is a transparent, peer-vouched credit system. It uses Zero-Knowledge Proofs (ZKP) to verify a borrower's identity and creditworthiness without ever exposing their contacts or private data. Instead of external collateral, peers stake social capital (Trust Tokens) in "Trust Circles." This community backing guarantees a lower default rate and rewards early repayment with lower rates, while local liquidity pools recycle interest back into the community.
+System Map: Before vs. After
+[Link to TrustShield Architecture Diagram] (Diagram should show: Borrower Generates ZK-Proof (on device) -> ZK-Proof sent to Lender -> Lender locks capital in Trust Pool Contract (Smart Contract) -> Borrower Repays -> Vouchers earn yield. No contact list data is transmitted.)
+4. The Enactment (Code & Utility)
+Technical Architecture
+* Platform: Cardano (Future-Ready for ZK Integration) / Smart Contract Layer (Rust/Solidity)
+* Key Tooling: ZK-SNARKs (Simulated Logic for ZKP), Smart Contracts for Staking/Slashing Logic.
+* Decentralization Rationale: Blockchain is essential for two reasons: 1) Privacy Shield: ZKP logic provides trust verification without data surrender. 2) Trustless Governance: Smart Contracts automate the Staking, Slashing, and Yield logic, making the system fair, predictable, and resistant to central manipulation.
+The Proof of Build
+[Link to Loom/YouTube Video Demo/Walkthrough (2-3 minutes)] (Watch a 2-minute walkthrough showing: 1. A user generating a "proof" that they meet criteria (e.g., have 3 vouching peers) without sharing their name. 2. A default event triggering the Trust Circle to cover the payment, instead of a collection bot calling the borrower's employer.)
+Code & Live Links
+Resource
+	Link
+	GitHub Repository
+	[Link to GitHub Repo for TrustShield Contracts]
+	Live Prototype/Demo
+	[Link to Dignity Dashboard UI Demo URL]
+	ZK-Proof Simulation
+	[Link to ZK Verification Logic Simulation]
+	5. The Potential (Roadmap & Sustainability)
+Next Steps
+* Phase 1 (Post-Hackathon): Finalize and audit the Aiken/Smart Contract logic for Staking and Slashing (the Trust Circle engine). Pilot a controlled lending pool with a small, verified cohort of users who stake reputation on each other.
+* Phase 2 (Sustainability): Establish the Community Shield Fund where a portion of interest is recycled back to cover minor defaults and grow local liquidity. Offer the TrustShield SDK to ethical microfinance partners as a compliance-friendly verification layer.
+Call to Action
+We are seeking connections with Ethical Lenders, Financial Regulators (like FCCPC), and Privacy Experts to integrate the TrustShield Protocol as the standard for decentralized, dignified credit access in emerging markets.
+
+
+________________
+
+
+Public Registration Form Responses (Non-Markdown)
+🛡️ Team TrustShield Protocol (Urban Digital Credit Commons)
+Problem Statement
+In Nigeria, "Fintech" has become synonymous with Predatory Surveillance. Millions of salaried workers and market traders are trapped by high-interest loans enforced through weaponized shaming: scraping contact lists and sending defamatory messages to families and employers. This extracts capital from local ecosystems and destroys social trust. Our potential is to build a protocol where dignity is the collateral, replacing Algorithmic Extraction with Regenerative Social Collateral.
+
+
+Role your project plays in the region...
+TrustShield is a systemic intervention, acting as the Regenerative Immune System for the urban informal economy. It transforms the borrower from a target for extraction into a Sovereign Identity Owner. It turns the community from collateral damage into an Immune System, incentivized to support struggling members through "Trust Circles." This approach stabilizes local capital flows and provides ethical, transparent credit where traditional predatory systems have failed.
+
+
+Potential for change in your context...
+Today, credit is defined by how much data you surrender. We envision an End-State Vision where reputation is a sovereign, verifiable asset. The path involves: (1) MVP: Deploying the Zero-Knowledge Identity to eliminate contact scraping and enforce dignity; (2) Trust Circles: Automating peer vouching and social staking (Restorative Recovery) to lower default risk; (3) Systemic Shift: Capital providers become Stewards deploying into transparent pools with sustainable yields, future-proofed against imminent regulatory bans on harassment tactics. This shifts the culture from fear and extraction to resilience and prosperity.
+
+
+Scope of project (Maturity)
+Working Prototype. We are focused on deploying the core protocol contracts that manage Social Staking and Slashing (the Trust Circle engine) and integrating the simulated Zero-Knowledge Proofs (ZKP) to demonstrate that a user can be verified as creditworthy without ever sharing their contact list.
+Degree of Cardano implementation
+Smart Contracts, Identity/DID, Identity/VCs, Wallet Abstraction.
+
+
+Perception of local context changed...
+Our original focus was on preventing salary workers from using predatory apps. The key shift was realizing the crisis was not financial, but a human rights crisis rooted in the lack of data privacy. This mandated the use of Zero-Knowledge Proofs to secure dignity. Our purpose evolved from building a friendly loan app to building ethical, open-source infrastructure (The TrustShield SDK) that protects the borrower and aligns capital providers (Investors) with community resilience (The Place), creating a regenerative system for all five stakeholders.
+
+
+How you are organising yourselves...
+We are organized as architects of trust, focused on security and ethical design. Our team is split between the ZK/Smart Contract Developer (handling the privacy and staking logic) and the UX Designer (creating the "Dignity Dashboard" with a "Panic-Free UI"). Our process includes ethical reviews of every design choice, ensuring the technology serves the borrower's emotional and financial health first. We are building the public good infrastructure (SDK) that can scale ethical lending across Nigeria.
+
+
+Uniconnect
+Team Name: Uniconnect 
+
+
+Current Status: Development phase 
+Blockers/Support Needed:
+None at this stage 
+
+
+Team Roster & Roles:
+
+
+(Team Uniconnect )
+
+
+Name: Sheriffdeen Habibulahi Opeyemi 
+Role: Lead team, Chief visionary officer, product/project manager
+(SCRIBE/WEAVER)
+
+
+Name: Urom Jehoshaphat Ogbonnia. Role: Backend developer
+ ( BUILDER)
+
+
+Name: Sule Ramatu Sule 
+Role: Frontend developer
+ ( BUILDER)
+ 
+Name: Nafisat   Abdulazeez 
+Role: UI/UX designer
+ ( BUILDER)
+
+
+Name: Ganiyu Aisha Morenike 
+Role: UI/UX designer
+ ( BUILDER)
+
+
+
+
+
+
+1. Team Docs Template (Non-Markdown)
+🌟 UniConnect
+The North Star: UniConnect is the integrated stability ecosystem that secures the Nigerian student’s residential life, academic success, and professional future using decentralized trust.
+________________
+
+
+1. The Team
+Role
+	Name
+	Responsibilities
+	Lead / Weaver
+	[HENRY DANIEL – TEAM LEAD]
+	Strategic Direction, Policy Integration, Risk Management, National Scope
+	Builder / Back-End Designer
+	[Data Lead Name]
+	Cardano Escrow Smart Contract Deployment, Secure API Design, NSS Index Analytics
+	Scribe / UI/UX Designer
+	[Design & Community Lead Name]
+	User Advocacy, Mobile Design, Stress Check Flows, Community Governance UI
+	Front-End Designer
+	[Application Lead Name]
+	Application Prototype Build, API Integration, Performance & Responsiveness
+	[Link to Team Logo (Light-on-Dark)]
+2. The Ground Truth (The Nigerian Student Crisis)
+The Specific Friction
+The Nigerian tertiary student housing system is in critical failure, forcing over 65% of students off-campus into an informal market plagued by fraud, facility deterioration, and safety threats. This crisis creates financial and emotional instability (anxiety, poor performance) and is exacerbated by exploitative third-party agents who introduce unnecessary friction, cost, and risk to both students and landlords. The system lacks a neutral, trusted intermediary.
+Direct Evidence
+“The struggle for a basic, secure living space is as emotionally damaging as academic failure itself. We don’t just need a house; we need to eliminate the fear of fraud and exploitation.”
+— [Source: Student Leader, UNILAG/ABU Zaria]
+[Photo URL: Team interviewing local user] (Team conducting field research on student housing stress)
+[Photo URL: System map drawing of the friction point] (Original System Map: Showing the agent/fraud/dispute loop)
+3. The Regenerative Intervention (The System Flip)
+Our Thesis: We must eliminate all exploitative third parties by replacing them with a secure, transparent, blockchain-powered platform. Stability is not just a house; it is a secure mind and a verifiable network.
+The Solution Statement
+UniConnect is an integrated stability ecosystem. It replaces third-party agents with a Multi-Currency Escrow Smart Contract (Cardano) for zero-fraud transactions. Beyond housing, it secures the student's mind via the Nigeria Student Stress Index (NSSI) and their future via the Nationwide Network powered by Verifiable Credentials (VCs). This creates a direct, zero-friction environment.
+System Map: Before vs. After
+[Link to UniConnect System Architecture Diagram] (Diagram should show the flow: Student pays Stablecoin/Naira -> Escrow Smart Contract -> Landlord receives payment only after lease confirmation, eliminating the agent and fraud risk.)
+4. The Enactment (Code & Utility)
+Technical Architecture
+* Platform: Cardano
+* Key Tooling: Aiken (for Escrow Smart Contract logic), Atala PRISM (for Verifiable Credentials - VCs), React/Flask (Web App)
+* Decentralization Rationale: Cardano is essential for: 1) Zero-Fraud Escrow: Providing a neutral, code-based intermediary that replaces the exploitative human agent. 2) Self-Sovereign Identity: Enabling VCs for mentors and alumni, creating a trusted, non-social-media network. 3) Incentive Alignment: Allowing high-Reputation Landlords to pay for promotional listings using ADA, tying revenue to trust.
+The Proof of Build
+[Link to Loom/YouTube Video Demo/Walkthrough (2-3 minutes)] (Watch a 2-minute walkthrough showing the Escrow Payment Flow: Student pays, funds lock, landlord confirms release.)
+Code & Live Links
+Resource
+	Link
+	GitHub Repository
+	[Link to GitHub Repo]
+	Live Prototype/Demo
+	[Link to Vercel/Live Demo URL]
+	Figma Design File
+	[Link to Figma Prototype]
+	5. The Potential (Roadmap & Sustainability)
+Next Steps
+* Phase 1 (Post-Hackathon): Rigorous security audit of the Escrow Smart Contract. Pilot the Multi-Currency Escrow Flow and Verified Peer Protocol (mentorship VCs) at a federal university (e.g., ABU Zaria).
+* Phase 2 (Sustainability): Launch the Promoted Listings (ADA-Paid Ads) feature, which generates our first revenue stream by financially rewarding only high-Reputation landlords. Integrate with the first microfinance partner to test the Verifiable Credit Credential (VCC) model.
+Call to Action
+We are seeking connections with Microfinance Institutions, Student Loan Providers, and Nigerian Universities interested in integrating our Verifiable Credit Credential (VCC) and the NSS Index data for proactive student support.
+________________
+
+
+2. Public Registration Form Responses (Non-Markdown)
+🏡 Team UniConnect
+Problem Statement
+Today, the Nigerian tertiary student housing system is in critical failure, exposing over 65% of students to a multiple crisis: Financial instability (fraud, exploitation), Emotional instability (high anxiety and poor academic performance), and Privacy failure (reliance on exploitative third-party agents). Our potential is to eliminate these agents by replacing them with a secure, transparent, blockchain-powered system, creating an integrated stability ecosystem for the entire Nigerian student population.
+Role your project plays in the region...
+UniConnect plays a catalytic and connective role. At the student level, it is an emotional and financial lifeline, turning survival-focused decision-making into stability-driven academic growth. At the systemic level, it acts as a non-infrastructure solution to the chronic national hostel shortage, providing institutions with data (NSS Index) to extend welfare proactively. Regionally, it centralizes fragmented data to inform policy on student migration and housing affordability, making education hubs inclusive and scalable.
+Potential for change in your context...
+In a context of systemic distrust, UniConnect addresses the root cause: the failure of a neutral intermediary. We envision an End-State Vision (Stage 3) where UniConnect is the mandated, national standard. The student’s entire tenancy history (recorded on-chain via Reputation Tokens) becomes a universally recognizable Credit Score, used to secure micro-loans for tuition. The path involves: (1) Stage 1 (Current MVP): Establishing the Multi-Currency Escrow for zero-fraud payments; (2) Stage 2: Automating compliance (automatic penalty for maintenance failure) and launching VCs for the Nationwide Network; (3) End-State: Full policy integration, using the NSS Index to drive evidence-based funding and making the student’s history their creditworthiness.
+Scope of project (Maturity)
+MVP (Minimum Viable Product). We are focused on deploying the core financial infrastructure—the Multi-Currency Escrow Smart Contract—and proving the link between housing stability and mental load via the initial data streams for the Nigeria Student Stress Index (NSSI).
+Degree of Cardano implementation
+Smart Contracts, Identity/DID, Identity/VCs, Native Tokens/NFTs.
+Perception of local context changed...
+Our original purpose was simply to eliminate fraud (a transactional fix). Our key shift was realizing that instability is driven by disconnection and anxiety. We were surprised to find that securing the mind (via the Verified Peer Protocol and NSSI) was as critical as securing the rent money. This led to the insight that the ultimate stability tool is a secure social network built on Verifiable Credentials (VCs), transforming our project from a housing platform into a holistic, integrated stability ecosystem for the Nigerian tertiary system.
+How you are organising yourselves...
+Our team is structured to manage high-risk, multi-currency flows while focusing on user experience. The Weaver (Team Lead) manages product vision and external risk. The Back-End Designer (Data Lead) is responsible for the Cardano Escrow Smart Contract and NSS Index analytics. The UI/UX Designer ensures complex blockchain features translate to a stress-free mobile experience. Our process is iterative, with a powerful strategic mechanism: the Promoted Listings feature, where compliance-driven landlords pay in ADA for visibility, ensuring our revenue model is structurally tied to trust and directly funds student welfare tools.
+
+
+LINX
+Team Name:
+Team Linx
+
+
+Current Status:
+Development stage
+
+
+Blockers/Support Needed:
+None identified at this time.
+
+
+Team Roster & Roles:
+Jesse Wisdom – Builder / Scribe (Team Lead)
+Sulaiman Ahmad – Builder (Backend Developer)
+Lukman Muhammad – Builder (Frontend Developer)
+David Nduonofit Odiongenyi – Weaver (Community Manager & Researcher)
+Mustapha Buba Mustapha – Builder (UI Designer)
+Nimah Ayomide Yusuf – Scribe (Business Analyst)
+
+
+
+
+
+
+
+
+1. Team Docs Template (Non-Markdown)
+🌟 MubaXpress: Trust Infrastructure for Campus Commerce
+The North Star: Making campus trade visible, trusted, and coordinated by turning everyday delivery actions into verifiable trust signals on Cardano.
+________________
+
+
+1. The Team
+Role
+	Name
+	Responsibilities
+	Lead / Systems Thinker
+	[Your Name]
+	Product vision, stakeholder mapping, regenerative framing, strategic direction
+	Builder / Full-stack
+	[Name]
+	Marketplace backend, QR flows, Cardano integration, PWA development
+	Weaver / Field Research
+	[Name]
+	Ground truth interviews, campus post office mapping, community validation
+	Scribe / Designer
+	[Name]
+	UX flows, trust signals design, documentation, user advocacy
+	[Link to Team Logo (Light-on-Dark)]
+2. The Ground Truth (Campus Reality)
+The Specific Friction
+On campus, commerce is invisible and inefficient. Student vendors rely on disappearing WhatsApp messages to sell. Buyers hesitate to transact due to fragile trust, lacking visible proof of reliability (reviews, history). Meanwhile, valuable campus assets like the post office and peer delivery options are underutilized due to a complete lack of digital coordination. The core problem is not a lack of demand, but the absence of a shared, verifiable trust infrastructure.
+Direct Evidence
+“People don’t see my products, even when I post. And if I don’t know the seller, I won’t buy. There’s too much fraud for small deals.”
+— [Source: Student Vendor, Campus XYZ]
+[Photo URL: Team interviewing local user] (Team interviewing a student vendor/buyer)
+[Photo URL: System map drawing of the friction point] (Original System Map: Showing fragmented WhatsApp groups, low visibility, and lack of trust layer)
+3. The Regenerative Intervention (The System Flip)
+Our Thesis: Trust is built through repeated, observable actions, not promises. We must strengthen and coordinate existing campus assets by using Cardano as a neutral, invisible ledger to make these actions verifiable.
+The Solution Statement
+MubaXpress is a student e-commerce marketplace that creates a Delivery and Trust Commons. Students can list and purchase easily. Key delivery actions (handoff, pickup by peer or post office) are recorded as Proof-of-Action events. These non-financial events are immutably anchored on Cardano, creating an invisible reputation layer that builds trust without requiring users to handle wallets, tokens, or crypto.
+System Map: Before vs. After
+[Link to MubaXpress System Architecture Diagram] (Diagram should show the flow: Order -> QR Handoff (anchored on Cardano) -> Delivery (Post Office/Peer) -> QR Pickup (anchored on Cardano) -> Reputation Update.)
+4. The Enactment (Code & Utility)
+Technical Architecture
+* Platform: Cardano
+* Key Tooling: Lightweight transaction anchoring (metadata/UTxOs)
+* Decentralization Rationale: Cardano is used as the neutral trust ledger. Anchoring non-financial events (handoff, pickup) ensures they are tamper-proof, immutable, and permanently auditable. This allows trust to accumulate reliably over time, which a centralized database cannot guarantee. The blockchain is invisible to the user, ensuring seamless adoption.
+The Proof of Build
+[Link to Loom/YouTube Video Demo/Walkthrough (2-3 minutes)] (Watch a 2-minute walkthrough showing: Vendor scans delivery QR code, reputation score instantly updates based on the verified Cardano transaction.)
+Code & Live Links
+Resource
+	Link
+	GitHub Repository
+	[Link to GitHub Repo]
+	Live Prototype/Demo
+	[Link to Vercel/Live Demo URL]
+	Figma Design File
+	[Link to Figma Prototype]
+	5. The Potential (Roadmap & Sustainability)
+Next Steps
+* Phase 1 (Post-Hackathon): Pilot the Proof-of-Action system with 30 vendors and successfully integrate the campus post office for order handoffs. Achieve 50+ verified deliveries.
+* Phase 2 (Sustainability): Introduce Verified Campus Seller Badges (NFTs) linked to DID/VC for highly reputable vendors. Expand the reputation infrastructure to be portable across multiple universities.
+Call to Action
+We are seeking connections with University Administrators and Campus Post Office Directors interested in integrating our digital coordination layer to increase the utility and revenue of their existing student services.
+
+
+
+
+________________
+
+
+2. Public Registration Form Responses
+🛒 Team MubaXpress
+
+
+-Problem Statement
+On-campus commerce is paralyzed by fragile trust and invisibility. Student vendors rely on fleeting WhatsApp messages, and buyers hesitate to transact without verifiable proof of a seller’s reliability. This leads to low sales, high friction, and the underuse of existing campus services (post office, peer delivery). Our potential is to create a shared, immutable trust infrastructure that makes campus trade visible, efficient, and self-reinforcing.
+
+
+-Role your project plays in the region...
+MubaXpress serves as the Digital Coordination Layer for the campus micro-economy. It strengthens existing systems rather than disrupting them, making it a true regenerative design. It increases digital inclusion by enabling high-trust transactions without requiring crypto knowledge. By turning simple delivery actions into verifiable trust signals, it formalizes informal entrepreneurship and enhances the utility of underutilized campus infrastructure.
+
+
+-Potential for change in your context...
+Today, the system is chaotic, based on temporary arrangements and word-of-mouth. We envision an end-state where MubaXpress is the national standard for campus trade, where trust compounds automatically. The path involves: (1) MVP (Proof-of-Action): Anchoring handoff/pickup events on Cardano via QR codes; (2) Reputation as Asset: Creating portable seller reputation that can be used across campuses; (3) Systemic Value: The MubaXpress model becomes a blueprint for how existing public infrastructure (like a post office) + Cardano can unlock local economic potential without extraction.
+
+
+-Scope of project (Maturity)
+Working Prototype. We have built the core e-commerce marketplace and are focused on demonstrating the end-to-end Proof-of-Action lifecycle: triggering a non-financial trust event (delivery handoff) via a simple QR code scan and anchoring the immutable record on the Cardano Testnet.
+Degree of Cardano implementation
+Native Tokens/NFTs, Wallet Abstraction.
+
+
+-Perception of local context changed...
+Our initial purpose was to build a simple campus e-commerce site. The surprise was realizing the problem was never the marketplace, but the credibility gap. This led to the key shift: we realized we must use Cardano not for money, but for verifiable truth. Our purpose evolved into using Proof-of-Action to make trustworthiness a visible, cumulative asset, strengthening human coordination rather than bypassing it. This makes Cardano a quiet but powerful engine for everyday economic activity.
+
+
+-How you are organising yourselves...
+Our team is organized around the Trust Layer. The Builder focuses solely on the immutable Cardano anchoring and QR implementation. The Weaver ensures the delivery flows align with actual campus post office operations. Our process emphasizes Invisible UX, ensuring the complexity of the blockchain is abstracted entirely so students only see a simple, trustworthy platform with a rapidly growing seller reputation score.
+
+
+[] *
+
+
+kurama
+Team Name:
+Team kurama
+
+
+Current Status:
+Development stage
+
+
+Blockers/Support Needed:
+None identified at this time.
+
+
+Team Roster & Roles:
+Muhammad musa ibrahim – Builder / Scribe (Team Lead)
+Ibrahim Jibril – Builder (front-end Developer and technician)
+Isah Saeed gubuchi –  ( Community socially and documentation)
+ Muhammad auwal Jibril – presenter(Community Manager & Researcher)
+Stephen Oshateye– Builder (UI/UX Designer)
+
+
+The tinkers
+Team Name:The tinkers 
+
+
+Current Status: Implementation phase 
+Blockers/Support Needed:
+None at this stage 
+
+
+Team Roster & Roles:
+Al-hassan Abdullahi:Community insight manager and research lead(Team lead)
+Ibrahim Aliyu – Builder (Backend Developer)
+Isola opeyemi– Builder (Frontend Developer)
+Nafiu Murtala kamaludden Builder  (UI/UX Designer)
+ Adebayo Tolani Abdullahi(Business Analyst).     Abdalah Aliu: (Graphics designer).                                        Aisha Baba: market analyst
+
+
+The Dual Stream Engineers
+Team name: The Dual Stream Engineers 
+Current status: Building and developing stage
+Blockers/supporters needed: UI/UX developer needed
+Team roster and roles:
+Aisha Hassan Labo- scribe, market analyst and team lead
+Abdurrahman Suleiman Karwai- Developer, Weaver and assistant team lead
+Aminu Aliyu- Weaver and scribe
+Amina Salaudeen Adedoja- Weaver
+
+
+
+
+
+
+1. Team Docs Template (Non-Markdown)
+🌟 The Dual Stream Engineers: Integrated Waste Processing System
+The North Star: To establish a localized, self-sustaining waste-to-wealth system that uses Cardano to incentivize waste collection, converting plastic into synthetic fuel and organic waste into compost, ensuring a cleaner environment for the ABU Zaria community.
+________________
+
+
+1. The Team
+Role
+	Name
+	Responsibilities
+	Lead / Lead Architect
+	Aisha Hassan Labo
+	Team leadership, system design, technical writing, overall project execution
+	Assistant Lead / Blockchain Dev
+	Abdurrahman Suleiman Karwai
+	Smart Contract logic, Cardano token development, builder, weaver
+	Builder / UX Designer
+	Ridwanullah Muhammad Mahmud
+	Designing the collection interface, user flow, and system aesthetic
+	Weaver / Community Management
+	Salaudeen Amina Adedoja
+	Stakeholder engagement, community adoption, token exchange management
+	Weaver / Community Management
+	Aminu Aliyu
+	Logistics, waste source mapping, community education
+	Researcher / Impact Officer
+	Maryam Hassan Labo
+	Research, impact metrics (emissions, waste conversion), documentation
+	[Link to Team Logo (Light-on-Dark)]
+2. The Ground Truth (The Pollution Crisis)
+The Specific Friction
+The ABU Zaria community (specifically Samaru) faces a severe environmental crisis due to plastics and organic wastes being improperly managed—burned (increasing greenhouse gas emissions/global warming) or dumped (causing drainage blockage, flooding, groundwater contamination, and soil degradation). Nigeria contributes 3.2 million tons of plastics annually, with over 80% unrecycled. The community lacks proper recycling centers and innovative solutions to break this harmful cycle.
+Direct Evidence
+“One of the experiences I had with improper waste disposal was during the rainy season. People in the neighborhood dumped their waste in the drainage, thereby leading to drainage blockage. Afterwards, flooding occurred, stagnant water and also increased mosquitoes making the environment unhealthy.”
+— [Source: Local Respondent Experience]
+[Photo URL: Visual of blocked drainage in Samaru] (Image showing the impact of unmanaged plastic waste)
+[Photo URL: System map drawing of the friction point] (Original System Map: Showing Waste Dumped/Burned -> Flooding/Pollution/Emissions -> Health/Agricultural Damage)
+3. The Regenerative Intervention (The System Flip)
+Our Thesis: Waste must be viewed as a dual asset stream—a source of high-demand energy (fuel) and a source of soil fertility (manure). We must financially incentivize the community to participate, making waste collection an income stream.
+The Solution Statement
+The Integrated Waste Processing System is a "3-in-1" system that simultaneously sorts waste and produces two energy sources: synthetic fuel from plastics (via Pyrolysis) and organic manure from organic waste (via Composting). Cardano is integrated as a transparent Digital Record Book and a Tokenized Incentive system, rewarding community members with tokens for waste delivery. This turns pollution into a community asset.
+System Map: Before vs. After
+[Link to Dual Stream Architecture Diagram] (Diagram should show the flow: Waste Source -> Collection/Sorting (Data Recorded on Cardano) -> (Stream 1) Plastic -> Pyrolysis -> Synthetic Fuel -> (Stream 2) Organic Waste -> Composting -> Manure -> Sale to Community/Government.)
+4. The Enactment (Code & Utility)
+Technical Architecture
+* Platform: Cardano
+* Key Tooling: Cardano Native Tokens (for incentives), On-chain Metadata / UTxOs (for digital record book).
+* Decentralization Rationale (Blockchain Use Case):
+   1. Digital Record Book: Every verified event (Waste Type, Quantity, Processing Method, Output) is immutably anchored on Cardano. This provides auditable data for impact reporting, government compliance, and calculating carbon/emission reduction metrics.
+   2. Incentive Token: Community members who deliver waste receive Cardano Tokens (e.g., Waste-to-Wealth Tokens). These tokens are the primary driver of participation, ensuring a consistent waste supply. They can be exchanged for cash or held in a personal wallet.
+The Proof of Build
+[Link to Loom/YouTube Video Demo/Walkthrough (2-3 minutes)] (Watch a 2-minute walkthrough showing: 1. A community member delivering a bag of waste. 2. The sorting machine operator logging the data. 3. The user's Cardano wallet receiving the Waste Token instantly.)
+Code & Live Links
+Resource
+	Link
+	GitHub Repository
+	[Link to GitHub Repo for Token & Record Logic]
+	Token Policy ID
+	[Cardano Testnet Token Policy ID]
+	Figma Design File
+	[Link to Waste Drop-off/Reward UI]
+	5. The Potential (Roadmap & Sustainability)
+Next Steps
+* Phase 1 (Post-Hackathon): Finalize the design and sourcing for the small-scale Pyrolysis and Composting units (the Integrated System). Conduct a pilot program with 50 households in Samaru, launching the Cardano Token Incentive program.
+* Phase 2 (Sustainability): Establish supply contracts for fuel (local industries/generators) and compost (local farmers). Use the Cardano record book data to apply for Carbon Credits funding, diversifying the revenue stream and making the system financially self-sufficient.
+Call to Action
+We are seeking connections with Waste-to-Energy Investors, Local Government Authorities (Zaria/Kaduna State), and International NGOs focused on climate action and circular economy models to help fund and scale the physical processing units.
+________________
+
+
+2. Public Registration Form Responses (Non-Markdown)
+♻️ Team The Dual Stream Engineers
+Problem Statement
+The ABU Zaria community (and Nigeria at large) faces a severe crisis where improperly disposed plastics and organic waste lead to severe environmental degradation, air pollution, and flooding. This negligence is driven by the absence of recycling infrastructure and a lack of incentive. Our project addresses the specific local impact of high gas emissions, liquid discharge, and overall unhealthy learning and living conditions caused by unmanaged waste.
+Role your project plays in the region...
+The Dual Stream Engineers provides a localized, circular, and community-driven solution. It transforms waste from a liability (pollution) into a dual asset stream (fuel and manure), creating a source of income for community members and government. It serves as an economic engine for SDG stewardship, efficiently solving climate change and pollution problems while providing two high-demand, affordable energy/agricultural products.
+Potential for change in your context...
+Today, the local environment is degraded and unsafe. We envision a sustainable environment where 90% of waste is converted. The change potential is: (1) Environmental Benefit: Cleaner environment, reduction of methane/greenhouse gas emissions, and improved soil fertility for agriculture. (2) Community Impact: End-to-end benefit where residents provide waste and receive tangible rewards (Cardano Tokens, affordable products), driving high participation. (3) Economic Revenue: The sale of fuel and compost creates income for the system, ensuring its long-term financial viability and scaling potential.
+Scope of project (Maturity)
+Working Concept/Initial Build. We have built the core Cardano Token and Digital Record Book logic (the incentive and transparency infrastructure). Our next step is to finalize the physical Sorting Module and begin the phased build-out of the Pyrolysis and Composting Units. The community incentive system is ready for immediate deployment.
+Degree of Cardano implementation
+Native Tokens/NFTs.
+Perception of local context changed...
+Our initial research confirmed that the core problem was the lack of an economic incentive. We were surprised and encouraged by the user-centric insight that the community members are willing and able to engage if they receive a direct, visible reward. This reinforced the decision to use the Cardano Token as the primary driver, realizing that blockchain's unique role here is not complex finance, but providing transparent, automated, and immutable rewards for behavioral change, ensuring trust between the community and the processing system.
+How you are organising yourselves...
+We are organized as a hybrid team spanning engineering, community, and finance. The Lead Architect manages the dual-stream engineering and system design, while the Blockchain Developer ensures the Cardano Token and Digital Record Book are secure and functional. The Community Management team (Weavers) focuses on local engagement and managing the token-to-cash exchange process to ensure seamless user experience and high adoption rates. Our strength lies in integrating the technical solution with deep local community commitment.
+
+
+Relentless
+Team name: Team Relentless
+
+
+Current status: development phase
+
+
+Blockers/ support needed: yes
+
+
+Team Roster and roles:
+
+
+Jimmy Miracle - Research lead,  assistant backend dev (team Lead)
+
+
+Ufuoma Fortune - Blockchain developer  
+
+
+Okoroafor Hosea Felix Frontend Developer
+
+
+Hammed Quyum - Developer advocate 
+
+
+Adebesin Fareedah - scribe/ assistant Frontend Developer 
+
+
+Olatunji Oluwasegun Marvellous - Fullstack Developer
+
+
+Atiku Abubakar - project management
+
+
+
+
+
+
+Tab 15
+
+
+Tab 16
+
+
+Tab 17
+
+
+Tab 18
+
+
+Tab 19
+
+
+Tab 20
+
+
+Tab 21
+
+
+[a]@kamalaliyu212@gmail.com here is the template
+_Assigned to kamalaliyu212@gmail.com_

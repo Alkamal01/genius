@@ -1,0 +1,15 @@
+export default {
+  "index": "Overview",
+  "credence": "Credence",
+  "airchain": "AirChain",
+  "eko-chain": "Eko Chain",
+  "edix": "Edix",
+  "ashaka-energy": "Ashaka Energy",
+  "trustshield": "TrustShield",
+  "uniconnect": "UniConnect",
+  "mubaxpress": "MubaXpress",
+  "team-kurama": "Team Kurama",
+  "the-tinkers": "The Tinkers",
+  "dual-stream-engineers": "Dual Stream Engineers",
+  "team-relentless": "Team Relentless",
+}
