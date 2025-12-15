@@ -56,7 +56,7 @@ const navbar = (
       <div className="inline-flex items-center gap-4">
         {/* X (Twitter) */}
         <a
-          href="https://twitter.com/__prismaevents"
+          href="https://x.com/_ProjectGENIUS"
           target="_blank"
           rel="noopener noreferrer"
         >
@@ -64,13 +64,13 @@ const navbar = (
         </a>
 
         {/* Open Collective */}
-        <a
+        {/* <a
           href="https://opencollective.com/prisma-collective"
           target="_blank"
           rel="noopener noreferrer"
         >
           <OpenCollectiveIcon className={`${iconClasses} ${getRandomHoverColor()}`} />
-        </a>
+        </a> */}
 
         {/* Calendar */}
         <a
@@ -82,7 +82,7 @@ const navbar = (
         </a>
       </div>
     }
-    projectLink={"https://github.com/prisma-collective/"}
+    projectLink={"https://github.com/The-GENIUS-Initiative"}
     projectIcon={<FaGithub className={`${iconClasses} ${getRandomHoverColor()}`} />}
   />
 );
