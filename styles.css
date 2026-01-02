@@ -30,10 +30,10 @@
 
 /* Load the actual font */
 @font-face {
-    font-family: "Custom";
-    src: url("/fonts/SpaceGrotesk-VariableFont_wght.woff2") format("woff2");
-    font-weight: 400;
-    font-style: normal;
+  font-family: "Custom";
+  src: url("/fonts/SpaceGrotesk-VariableFont_wght.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
 }
 
 /* Load the actual font */
@@ -46,46 +46,62 @@
 
 /* Set the background color for the whole page */
 .dark body {
-    background-color:rgb(0, 0, 0); /* Change this to your desired background color */
-    color: #ffffff; 
+  background-color: rgb(0, 0, 0);
+  /* Change this to your desired background color */
+  color: #ffffff;
 }
 
 /* Light theme styles when Nextra switches to light mode */
 html:not(.dark) body {
-    background-color: #ffffff;
-    color: #333333;
+  background-color: #ffffff;
+  color: #333333;
 }
 
 /* Set font style for headings */
-.dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
-    font-family: 'Space Grotesk', sans-serif; 
-    color:rgb(249, 249, 249); 
+.dark h1,
+.dark h2,
+.dark h3,
+.dark h4,
+.dark h5,
+.dark h6 {
+  font-family: 'Space Grotesk', sans-serif;
+  color: rgb(249, 249, 249);
 }
 
 /* Set font style for links */
+/* Set font style for links */
 a {
-    color: #7faec2; 
-    text-decoration: none; 
+  color: var(--color-prisma-e);
+  text-decoration: none;
 }
+
+/* Light mode link override for better contrast */
+html:not(.dark) a {
+  color: var(--color-prisma-b);
+  /* dark blue for accessiblity */
+}
+
 
 /* Add hover effect to links */
 a:hover {
-    color: #ef64ff; 
-    text-decoration: none; 
+  color: #ef64ff;
+  text-decoration: none;
 }
 
 .aspect {
-    animation: moveAround linear infinite;
-    transform-origin: center;
-    animation-play-state: running; /* Default to running */
-    opacity: 1;
-    transition: opacity 0.5s ease; /* Smooth transition */
-  }
+  animation: moveAround linear infinite;
+  transform-origin: center;
+  animation-play-state: running;
+  /* Default to running */
+  opacity: 1;
+  transition: opacity 0.5s ease;
+  /* Smooth transition */
+}
 
 .aspectAnti {
   animation: moveAroundAnti linear infinite;
   transform-origin: center;
-  animation-play-state: running; 
+  animation-play-state: running;
   opacity: 1;
   transition: opacity 0.5s ease;
 }
@@ -122,6 +138,7 @@ a:hover {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
@@ -131,6 +148,7 @@ a:hover {
   from {
     transform: rotate(360deg);
   }
+
   to {
     transform: rotate(0deg);
   }
@@ -154,8 +172,10 @@ a:hover {
 
 /* Hover Area */
 .hover-area-link:hover .linked-path {
-  stroke: #cd5aff; /* Change the stroke color to red when hovered */
-  transition: stroke 0.3s ease; /* Smooth transition for stroke color change */
+  stroke: #cd5aff;
+  /* Change the stroke color to red when hovered */
+  transition: stroke 0.3s ease;
+  /* Smooth transition for stroke color change */
 }
 
 .hover-area-link {
@@ -163,8 +183,10 @@ a:hover {
 }
 
 .hover-path {
-  pointer-events: auto;  /* Ensure the invisible hover path can be interacted with */
-  z-index: 1;  /* Ensure it sits on top of the link */
+  pointer-events: auto;
+  /* Ensure the invisible hover path can be interacted with */
+  z-index: 1;
+  /* Ensure it sits on top of the link */
 }
 
 /* styles/glow.css or similar */

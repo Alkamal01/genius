@@ -68,13 +68,13 @@ export const ProfileCard: FC<ProfileCardProps> = ({
       <div className="absolute top-2 right-2 flex flex-row items-center">
         {/* Number to the left */}
         {telegramData ? (
-          <span className="text-sm text-green-700 mr-1 pointer-events-none">{telegramData.entries}</span>
+          <span className="text-sm text-green-700 dark:text-green-400 mr-1 pointer-events-none">{telegramData.entries}</span>
         ) : (
-          <span className="text-sm text-green-700 mr-1 pointer-events-none"></span>
+          <span className="text-sm text-green-700 dark:text-green-400 mr-1 pointer-events-none"></span>
         )}
         {/* Expand Icon */}
         <button
-          className="rotate-45 text-gray-500 hover:text-gray-700 dark:hover:text-white"
+          className="rotate-45 text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-white"
           onClick={handleExpand}
           aria-label="Expand Profile"
         >
