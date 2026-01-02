@@ -1,0 +1,276 @@
+﻿Tab 1
+
+
+
+
+🏗️ Landing Page Layout (The Home Screen) 
+The main landing page should serve as a high-level "Dashboard."
+1. Hero Section
+* Visual: A high-quality group photo of the Zaria Hub participants (inspired by the Next Trend layout).
+* Headline: Project Genius Hub — Zaria: Hacking the system — not just the code.
+* Sub-headline: "Translating field research into blockchain solutions for Prisma and WADA".
+2. The "Triple-Path" Quick Actions
+Replace the current cards with three clear lanes to guide your specific users:
+* Teams: "View Guidelines & Start Building" (Links to Process/Templates). Page 2
+* Local Evaluators: "Judging Criteria & Submissions" (Links to Evaluation/Evidence). Page 3
+* Community: "Our Stories & Updates" (Links to Substack/Social Media). Page 4
+3. Timeline & Upcoming Events
+* Keep the Timeline component from your current page to show the hackathon's progress. 
+* Include a "Next Deadline" countdown to keep participants on track. 
+________________
+
+
+🧭 The Sidebar Structure (The "Docs" Navigation)
+Adopt the deep, categorized style of the Next Trend Hub sidebar to make resources easy to find.
+Section 1: Welcome & Identity
+* Home: The main dashboard.
+* Our Story: (Inspired by Next Trend’s "Built from Truth").
+   * Overview: The Hub’s mission.
+   * Zaria Field Research: Our philosophy on community-centered discovery.
+   * Substack Blog: Direct link to your local stories.
+* Social Media: Links to X, Telegram, and Discord.
+Section 2: Participant Handbook (The "Process")  
+* Overview: Step-by-step hackathon journey.
+* Action Learning: How to conduct field research.
+* Technical Library: Cardano SDKs, Prisma, and WADA technical docs.
+* Templates:
+   * Driver Form: Project registration.
+   * Submission Template: For final project documentation.
+Section 3: Evaluation Center
+* Judging Guidelines: Detailed breakdown for evaluators.
+* Scoring Rubric: Transparent criteria (Impact, Technicality, Feasibility).
+* Submission Gallery: Where judges can see all active "Pods" or teams.
+Section 4: Team & Network
+* Team: Hub leads and organizers.
+* Mentors: Experts available for office hours.
+* Partners: WADA, Prisma, and Cardano ecosystem links.
+________________
+
+
+Present these specific questions to your team to finalize the design:
+1. Sidebar Naming: Do we want to use the Next Trend style of narrative names (e.g., "The Signal in the Noise") or stick to literal names (e.g., "Research Data")?
+2. The Photo: Which photo best represents the "Zaria energy" for the hero section?
+3. The Substack: Should we embed the last three Substack headlines directly on the home page or keep it as a sidebar link?
+
+
+Time lines, events all of them, traction
+
+
+Resources page.  
+
+
+Landing Page
+Landing Page
+
+
+
+
+Picture
+
+
+
+
+Project Genius Hub — Zaria is an innovation engine dedicated to empowering local developers, researchers, and creators to build meaningful solutions rooted in community-centred discovery. As a center for high-impact innovation, we provide the space, mentorship, and technical tools needed to translate rigorous field research into publishable, real-world blockchain applications. Our mission is to bridge the gap between local problem discovery and global technology standards, building local capacity while connecting grassroots projects to international mentors and competitive prizes.
+
+
+
+
+Quick Actions
+
+
+For Teams                                       Local Evaluators                          Community:
+
+"View Guidelines & Start Building" (Links to Process/Templates)             Judging Criteria & Submissions" (Links to Evaluation/Evidence). Page 3                "Our Stories & Updates" (Links to Substack/Social Media)
+
+
+
+
+
+
+
+
+
+
+TimeLines
+
+
+Add Demo day
+
+
+Local template deadline: 29th
+
+
+Evaluation deadline:  2nd January
+
+Final Video Deadline
+Y
+
+Side Bars:
+
+
+Welcome and Identity
+Participants handbook
+Evaluation
+Team
+Resources
+
+
+
+Section 1: Welcome & Identity
+* Our Story:Project GENIUS began with a simple spark: to ignite creativity and design thinking in the next generation. Our inaugural innovation contest saw 178 students and 52 teams rise to the challenge, culminating in a Grand Finale that drew over 300 educators and tech enthusiasts. The energy was palpable—especially as four teams debuted fully functional prototypes, ranging from smart devices to community-driven tech.
+* Evolution into a Venture Studio This breakthrough was just the beginning. Today, Project GENIUS has evolved into a hub and deep tech venture studio. We operate at the intersection of AI and Blockchain, prioritizing conscious innovation over market hype. Our mission is clear: to develop sustainable human capital that meets Africa’s unique needs through intentionality and long-term impact
+
+
+Pictures of Project genius 1st edition
+Winners of 1st edition
+, second edition and (winners of the second one)
+* CATS26
+
+
+   * Team Spotlight: The Tinkers -  The Hacktivists.
+   * Substack Blog: Before the Chain, There Was the Problem
+   * A practical editorial on building blockchain infrastructure for Africa
+
+   * Regenerative Learning and Professor Wangari Maathai's Green Belt Movement
+
+   * If You Think Crypto Is Just Gambling, You’ve Only Seen 5% of What Web3 Really Is.
+
+
+      * Social Media: Links to X, Telegram, and Discord.
+🏗️ Landing Page: The Hub Dashboard
+🏗️ Landing Page: The Hub Dashboard
+1. Hero Section
+  
+  
+
+Project Genius Hub — Zaria: Hacking the system — not just the code.
+Translating field research into blockchain solutions for Prisma and WADA.
+Project Genius Hub — Zaria is an innovation engine dedicated to empowering local developers, researchers, and creators to build meaningful solutions rooted in community-centred discovery. As a center for high-impact innovation, we provide the space, mentorship, and technical tools needed to translate rigorous field research into publishable, real-world blockchain applications. Our mission is to bridge the gap between local problem discovery and global technology standards, building local capacity while connecting grassroots projects to international mentors and competitive prizes.
+
+
+The CATS Hackathon isn’t just about writing scripts; it’s about engineering social change. We take the raw insights from the streets and classrooms of Zaria and turn them into decentralized realities on the Cardano blockchain.
+________________
+
+
+2. The "Triple-Path" Quick Actions
+Choose your journey to navigate the ecosystem.
+🛠️ For Teams
+	⚖️ For Evaluators
+	🌍 For Community
+	"View Guidelines & Start Building"
+	"Judging Criteria & Submissions"
+	"Our Stories & Updates"
+	Access the project roadmap, processes and regenerative development principles.
+	Test your knowledge of the regenerative development principles and qualify to vote on projects.
+	Read our latest field notes on Substack and join the conversation.
+	Participants Handbook
+	Evaluation
+	Substack Invitation
+	________________
+
+
+3. Live Progress & Deadlines
+Current Phase: 🛠️ Ground Potentializing / Building
+      * Timeline:
+      * [Nov 11th - Nov 30th] Phase 1: Field Research & Problem Identification
+      * [Dec 1st - Dec 29th] Phase 2: Prototyping & Technical Development 
+      * [Dec 29th] Phase 3: Final Submissions & Local Demo Day
+      * [Dec 30th - Jan 6th] Phase 4: Local Evaluation (Current)
+      * [Jan 15th] Phase 5: WADA Selection
+      * [Feb 26th] Phase 6: CATS Africa Summit Presentation
+Ensure all technical documentation and demo videos are uploaded before the 29th of December 2025.
+
+
+
+
+Section 1: Welcome & Identity
+Section 1: Welcome & Identity
+1.1 Our Story: From a Spark to a Movement
+Project GENIUS began with a simple spark: to ignite creativity and design thinking in the next generation. Our journey started with an inaugural innovation contest that exceeded all expectations. We saw 178 students and 52 teams rise to the challenge, proving that the hunger for technical excellence is immense. The energy culminated in a Grand Finale with over 300 educators and tech enthusiasts in attendance.
+The Breakthrough: More than just a competition, this event saw four teams debut fully functional prototypes ranging from integrated smart devices to community-driven tech platforms proving that our community doesn't just dream; we build.
+________________
+
+
+1.2 Evolution: The Deep Tech Venture Studio
+This breakthrough was just the beginning. Today, Project GENIUS has evolved from a competition host into a Deep Tech Venture Studio.
+We operate at the intersection of AI and Blockchain, prioritizing conscious innovation over market hype. Our mission is to develop sustainable human capital that meets Africa’s unique needs through intentionality and long-term impact. We aren't just hosting a hackathon; we are incubating the future of the Nigerian digital economy.
+________________
+
+
+1.3 Legacy & Visual Milestones: The Path of Innovation
+Our journey is best told through the hands-on work of our participants. From the first prototype to our current continental summit, here is how we’ve built the Project GENIUS legacy.
+🏗️ Phase 1: The Inaugural Spark (Project GENIUS 1.0)
+The first edition proved that students could solve real-world problems with high-tech solutions. The winning project was a Computer Vision Waste Sorting Machine, capable of autonomously identifying and separating recyclables.
+  
+ > The technical debut: Demonstrating the computer vision waste sorter.
+  
+ > The reward for excellence: The winning team receiving their prizes and recognition.
+________________
+
+
+🧠 Phase 2: Think Tank 2025
+Before scaling, we went deep. Think Tank 2025 was a dedicated period of strategy and intellectual rigor, where we analyzed the "truth on the ground" to refine our venture studio model.
+  
+ > The Strategy Room: Expert leads and participants deconstructing local challenges.
+  
+ > Focused Intent: Capturing the concentration and drive of the next generation of African innovators.
+________________
+
+
+🚀 Phase 3: Scaling Impact (Project GENIUS 2.0)
+The second edition focused on turning prototypes into potential businesses. We saw an increase in complexity, professional documentation, and the sheer volume of participation.
+  
+ > Drafting the Future: Participants working through the technical logic and required documentation.
+  
+ > The New Standard: Celebrating the winners of PG 2.0 as they prepare to enter the venture studio pipeline.
+________________
+
+
+🌍 Phase 4: CATS Hackathon (Current)
+We are currently in the "Ground Potentializing" phase of the Cardano Africa Tech Summit (CATS). We are moving beyond local contests to building global-standard blockchain solutions on Cardano and Midnight.
+  
+ > The CATS Ecosystem: A full house in Zaria, focused on translating research into code.
+  
+ > Ground Sensing Studio: A deep dive into field data before a single line of code is written.
+  
+> The Collaborative Engine: Real-world teamwork moving up the ladder of innovation.
+  
+ > The Tech Hub Session: Finalizing technical architectures for the upcoming summit presentations.
+________________
+
+
+1.4 Team Spotlight: The Tinkers
+"The Hacktivists of Zaria"
+Every movement needs its radicals. The Tinkers represent the bridge between raw engineering and social activism. As our featured "Hacktivists," they embody the Project GENIUS spirit: taking apart the systems that don't work and rebuilding them on-chain for the common good.
+https://youtu.be/M7R9BlvNTsM?si=-QkRu9Xlg3FDrE2s
+________________
+
+
+1.5 Substack: "Before the Chain, There Was the Problem"
+Our editorial philosophy focuses on building blockchain infrastructure that actually serves Africa.
+Featured Editorials:
+      * 📖Before the Chain, There Was the Problem – Why infrastructure must precede speculation.
+      * A practical editorial on building blockchain infrastructure for Africa
+      * 🌿 Regenerative Learning and Professor Wangari Maathai's Green Belt Movement – Applying Professor Wangari Maathai's philosophy to digital ecosystems.
+      * 🧠 If You Think Crypto Is Just Gambling, You’ve Only Seen 5% of What Web3 Really Is. – If you think crypto is just gambling, you’ve only seen 5% of what Web3 really is. Let us show you the other 95%.
+________________
+
+
+1.6 Join the Ecosystem
+Stay connected with the Hub's operations and the CATS Hackathon progress:
+      * X (Twitter) – https://x.com/_ProjectGENIUS
+      * Telegram – https://t.me/+wz4zFzgU1fM3ZWU0
+      * Whatsapp – https://chat.whatsapp.com/KB3hBuar3uXJoAuNeDpeBX
+
+
+
+
+Side Bars:
+Side Bars:
+
+
+Welcome and Identity
+Participants handbook
+Evaluation
+Team
+Resources

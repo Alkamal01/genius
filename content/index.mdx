@@ -1,71 +1,68 @@
 ---
-sidebarTitle: Home
+sidebarTitle: Welcome and Identity
 ---
 
-import { Cards, Steps } from 'nextra/components'
+import { Cards } from 'nextra/components'
+import { FaUsers, FaGavel, FaGlobe } from 'react-icons/fa'
+import ImageCarousel from '../components/ImageCarousel'
+import TeamCards from '../components/TeamCards'
 
 # Project Genius Hub — Zaria
-
 ## Hacking the system — not just the code.
 
-Project Genius Hub Zaria supports **community-centred problem discovery, rapid prototyping and evidence-based solutions**. We help local teams translate field research into clear, publishable submissions for Prisma and WADA while building local capacity and connecting projects to mentors and prizes.
+<ImageCarousel images={[
+  '/01.jpeg',
+  '/02.jpeg',
+  '/03.jpeg'
+]} />
+
+**Translating field research into blockchain solutions for Prisma and WADA.**
+
+Project Genius Hub — Zaria is an innovation engine dedicated to empowering local developers, researchers, and creators to build meaningful solutions rooted in community-centred discovery. As a center for high-impact innovation, we provide the space, mentorship, and technical tools needed to translate rigorous field research into publishable, real-world blockchain applications. Our mission is to bridge the gap between local problem discovery and global technology standards, building local capacity while connecting grassroots projects to international mentors and competitive prizes.
+
+The CATS Hackathon isn’t just about writing scripts; it’s about engineering social change. We take the raw insights from the streets and classrooms of Zaria and turn them into decentralized realities on the Cardano blockchain.
 
 ---
 
-## 🚀 Quick Actions
+## Choose your journey
+### The "Triple-Path" Quick Actions
 
-<Cards num={3}>
-  <Cards.Card arrow title="Submit Progress" href="https://tally.so/r/2EjjPD">
-    Register and upload your field research (Driver Form)
-  </Cards.Card>
-  <Cards.Card arrow title="Join a Pod" href="https://tally.so/r/xXV5NG">
-    Find teammates and form your team
-  </Cards.Card>
-  <Cards.Card arrow title="View Events" href="/events">
-    Check the full schedule and register
-  </Cards.Card>
+<Cards>
+  <Cards.Card icon={<FaUsers size="24"/>} title="For Teams: View Guidelines & Start Building" href="/handbook" />
+  <Cards.Card icon={<FaGavel size="24"/>} title="For Evaluators: Judging Criteria & Submissions" href="/evaluation" />
+  <Cards.Card icon={<FaGlobe size="24"/>} title="For Community: Our Stories & Updates" href="https://projectgenius.substack.com" />
 </Cards>
+
+<div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-4">
+  <div className="text-sm text-gray-600 dark:text-gray-400">
+    Access the project roadmap, processes and regenerative development principles.
+  </div>
+  <div className="text-sm text-gray-600 dark:text-gray-400">
+    Test your knowledge of the regenerative development principles and qualify to vote on projects.
+  </div>
+  <div className="text-sm text-gray-600 dark:text-gray-400">
+    Read our latest field notes on Substack and join the conversation.
+  </div>
+</div>
 
 ---
 
-## 📅 Timeline
 
-| Date | Event | Format |
-|------|-------|--------|
-| **Nov 25, 2025** | **Kickoff** | Virtual — Full process & demo |
-| **Nov 29, 2025** | **Fast Prototyping with AI** | Workshop |
-| **Dec 03, 2025** | **Team Formation (The Insight Lab)** | Team building |
-| **Dec 06, 2025** | **The Builders' Assembly** | Coding session |
-| **Dec 09, 2025** | **The Refinery** | Hybrid — Midway stakeholder review |
-| **TBA** | **Grand Finale** | Physical — Hub demo day & final upload |
 
----
+## Live Progress & Deadlines
+**Current Phase: 🛠️ Ground Potentializing / Building**
 
-## 📚 Key Resources
+### Timeline
 
-<Cards num={3}>
-  <Cards.Card arrow title="Ground-Potentialising" href="/ground-potentialising">
-    Field research, evidence collection, and problem discovery
-  </Cards.Card>
-  <Cards.Card arrow title="Teams" href="/teams">
-    Team formation, progress tracking, and development logs
-  </Cards.Card>
-  <Cards.Card arrow title="Learning Library" href="/learning-library">
-    Guides on regenerative development, systems thinking, and storytelling
-  </Cards.Card>
-</Cards>
+*   [x] **[Nov 11th - Nov 30th] Phase 1: Field Research & Problem Identification**
+*   [x] **[Dec 1st - Dec 29th] Phase 2: Prototyping & Technical Development**
+*   [x] **[Dec 29th] Phase 3: Final Submissions & Local Demo Day**
+*   [ ] **[Dec 30th - Jan 6th] Phase 4: Local Evaluation (Current)**
+*   [ ] **[Jan 15th] Phase 5: WADA Selection**
+*   [ ] **[Feb 26th] Phase 6: CATS Africa Summit Presentation**
 
-<Cards num={3}>
-  <Cards.Card arrow title="Process" href="/process">
-    Enrollment, documentation, mentorship, and timeline
-  </Cards.Card>
-  <Cards.Card arrow title="Incentives" href="/incentives">
-    Points system, prizes, and leaderboard
-  </Cards.Card>
-  <Cards.Card arrow title="Events" href="/events">
-    Full schedule and event details
-  </Cards.Card>
-</Cards>
+> [!IMPORTANT]
+> Ensure all technical documentation and demo videos are uploaded before the 29th of December 2025.
 
 ---
 
@@ -73,39 +70,4 @@ Project Genius Hub Zaria supports **community-centred problem discovery, rapid p
 
 We are a tightly-knit team with precisely the capabilities needed to bring this work forwards, our combined experience spanning facilitation, network coordination, design and technology development.
 
-<br/>
-
-<TeamCards/>
-
-<br/>
-
----
-
-## 📆 Upcoming Events
-
-Register for upcoming events and stay informed about what's being organized.
-
-<a
-  href="https://luma.com/event/evt-XASRfX2wzjEHuEf"
-  className="luma-checkout--button"
-  data-luma-action="checkout"
-  data-luma-event-id="evt-XASRfX2wzjEHuEf"
->
-  Register for Event
-</a>
-
-<br/>
-
-<iframe
-  src="https://luma.com/embed/event/evt-XASRfX2wzjEHuEf/simple"
-  width="100%"
-  height="450"
-  frameBorder="0"
-  style={{
-    border: '1px solid #bfcbda88',
-    borderRadius: '4px'
-  }}
-  allow="fullscreen; payment"
-  aria-hidden="false"
-  tabIndex="0"
-/>
+<TeamCards />

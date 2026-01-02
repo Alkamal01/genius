@@ -1,9 +1,8 @@
 export default {
-    "index": "Home",
+    "about-us": "About Us",
+    "handbook": "Participants handbook",
     "events": "Events",
-    "process": "Process",
-    "ground-potentialising": "Ground Potentializing",
+    "evaluation": "Evaluation",
     "teams": "Team",
-    "incentives": "Incentives",
-    "learning-library": "Learning Library"
+    "resources": "Resources"
 }

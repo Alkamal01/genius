@@ -1,5 +1,4 @@
 export default {
-  "index": "Overview",
   "credence": "Credence",
   "airchain": "AirChain",
   "eko-chain": "Eko Chain",
