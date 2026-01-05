@@ -153,9 +153,9 @@ export default function AnnouncementModal() {
                         </div>
 
                         <div className="flex justify-center items-end gap-4 mb-12 pt-8">
-                            <PodiumPlace rank={2} team="Tinkers" score={79.25} delay="0.3s" />
-                            <PodiumPlace rank={1} team="Safro" score={83.25} delay="0.1s" />
-                            <PodiumPlace rank={3} team="Airchain" score={76.00} delay="0.5s" />
+                            <PodiumPlace rank={2} team="Kurama" score={354} delay="0.3s" />
+                            <PodiumPlace rank={1} team="Safro" score={432} delay="0.1s" />
+                            <PodiumPlace rank={3} team="Airchain" score={315} delay="0.5s" />
                         </div>
 
                         <div className="bg-white/5 rounded-xl p-4 md:p-6 backdrop-blur-sm border border-white/10">
