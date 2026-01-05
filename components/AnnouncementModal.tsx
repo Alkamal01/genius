@@ -5,15 +5,15 @@ import Image from 'next/image'
 import { FaTrophy, FaTimes, FaMedal, FaStar } from 'react-icons/fa'
 
 const LEADERBOARD_DATA = [
-    { rank: 1, team: 'Safro', score: 83.25, color: 'from-yellow-400 to-amber-500' },
-    { rank: 2, team: 'Tinkers', score: 79.25, color: 'from-gray-300 to-gray-400' },
-    { rank: 3, team: 'Airchain', score: 76.00, color: 'from-amber-600 to-amber-700' },
-    { rank: 4, team: 'Kurama', score: 73.50 },
-    { rank: 5, team: 'Edix', score: 72.75 },
-    { rank: 6, team: 'MubaXpress', score: 72.00 },
-    { rank: 7, team: 'Dual Stream', score: 68.50 },
-    { rank: 8, team: 'Ashaka Energy', score: 66.25 },
-    { rank: 9, team: 'Dev-Lords', score: 64.75 },
+    { rank: 1, team: 'Safro', score: 432, color: 'from-yellow-400 to-amber-500' },
+    { rank: 2, team: 'Kurama', score: 354, color: 'from-gray-300 to-gray-400' },
+    { rank: 3, team: 'Airchain', score: 315, color: 'from-amber-600 to-amber-700' },
+    { rank: 4, team: 'Linx', score: 310 },
+    { rank: 5, team: 'SkyFish', score: 300 },
+    { rank: 6, team: 'DSE', score: 297 },
+    { rank: 7, team: 'Edix', score: 287 },
+    { rank: 8, team: 'Dev-Lords', score: 283 },
+    { rank: 9, team: 'Tinkers', score: 277 },
 ]
 
 function Confetti() {
@@ -168,16 +168,16 @@ export default function AnnouncementModal() {
                                     <div
                                         key={entry.team}
                                         className={`flex items-center justify-between p-3 rounded-lg transition-all hover:scale-[1.02] ${index < 3
-                                                ? 'bg-gradient-to-r from-purple-600/30 to-pink-600/30 border border-purple-500/30'
-                                                : 'bg-white/5 hover:bg-white/10'
+                                            ? 'bg-gradient-to-r from-purple-600/30 to-pink-600/30 border border-purple-500/30'
+                                            : 'bg-white/5 hover:bg-white/10'
                                             }`}
                                         style={{ animationDelay: `${0.7 + index * 0.1}s` }}
                                     >
                                         <div className="flex items-center gap-4">
                                             <span className={`w-8 h-8 rounded-full flex items-center justify-center font-bold text-sm ${entry.rank === 1 ? 'bg-yellow-500 text-black' :
-                                                    entry.rank === 2 ? 'bg-gray-400 text-black' :
-                                                        entry.rank === 3 ? 'bg-amber-600 text-white' :
-                                                            'bg-gray-700 text-white'
+                                                entry.rank === 2 ? 'bg-gray-400 text-black' :
+                                                    entry.rank === 3 ? 'bg-amber-600 text-white' :
+                                                        'bg-gray-700 text-white'
                                                 }`}>
                                                 {entry.rank}
                                             </span>
