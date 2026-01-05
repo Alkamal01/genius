@@ -1,11 +1,11 @@
 export default {
-  "airchain": "AirChain",
-  "the-tinkers": "The Tinkers",
-  "mubaxpress": "MubaXpress",
-  "dual-stream-engineers": "Dual Stream Engineers",
-  "dev-lords": "Dev-Lords",
-  "team-kurama": "Team Kurama",
   "safro": "Safro",
-  "edix": "Edix",
+  "team-kurama": "Team Kurama",
+  "airchain": "AirChain",
+  "mubaxpress": "MubaXpress",
   "ashaka-energy": "Ashaka Energy",
+  "dual-stream-engineers": "Dual Stream Engineers",
+  "edix": "Edix",
+  "dev-lords": "Dev-Lords",
+  "the-tinkers": "The Tinkers",
 }
