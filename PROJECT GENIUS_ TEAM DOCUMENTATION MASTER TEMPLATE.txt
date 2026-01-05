@@ -318,7 +318,7 @@ Safro
 PROJECT GENIUS: TEAM DOCUMENTATION MASTER TEMPLATE
 1. TEAM IDENTITY
 * Team Name: Team Safro
-* Project Name: Safro Connect
+* Project Name: Safro
 * Tagline: "Building the trust layer for the informal economy: From Zaria to the Northern Corridor."
 * Project Category: RealFi, Supply Chain, Financial Inclusion, Regenerative Tech
 2. TEAM MEMBERS
@@ -336,7 +336,7 @@ The team began their journey in the markets of Zaria (Sabon Gari). Their initial
 * Evidence: [Link to "Tale of Trust" Narrative PDF]
 Phase B: Prototyping (The Dual Strategy)
 This insight led to a strategic Pivot. We realized we needed a Dual-Interface Ecosystem to bridge the gap between the informal and formal economy.
-* For the Offline Trader: We engineered a USSD Escrow Gateway (*XYZ#) accessible on a Nokia 3310 via the GSM network.
+* For the Offline Trader: We engineered a USSD Escrow Gateway (*979#) accessible on a Nokia 3310 via the GSM network.
 * For the Digital Native: We developed a Multilingual Mobile App (currently in Beta) tailored for ABU students and smartphone users.
 * The Unifying Feature: Both interfaces are fully Multilingual (Hausa/English) and connect to the same "Invisible Guardian" on the blockchain. This ensures that a student with a smartphone can trade securely with a farmer who has a feature phone.
 Phase C: Deployment (Regenerative Impact)

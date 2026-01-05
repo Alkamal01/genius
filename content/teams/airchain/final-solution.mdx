@@ -2,6 +2,43 @@
 sidebarTitle: Final Solution
 ---
 
-# Final Solution — AirChain
+# AirChain — Final Solution
 
-Content for Final Solution...
+## AirChain
+
+**"A community-operated system making air quality visible, verifiable, and self-sustaining by anchoring truth on Cardano."**
+
+## The System
+
+### Resilient Nodes ("Cells")
+*   Tolerate intermittent power and connectivity
+*   Buffer data during outages
+*   Sync automatically when network recovers
+
+### Merkle Data Anchoring
+| Step | Action |
+|------|--------|
+| 1 | Sensors collect air quality readings |
+| 2 | Readings hashed into Merkle tree |
+| 3 | Only Root anchored on Cardano |
+| 4 | Full data provable from single hash |
+
+### AIRQ Token
+*   **Supply:** 1 Billion (pre-minted)
+*   **Purpose:** Incentivize stewardship and hardware maintenance
+*   **Mechanism:** Rewards for keeping sensors operational
+
+## Technical Stack
+*   **FastAPI** (Python) — Backend
+*   **Kubernetes** — Orchestration
+*   **MQTT** — Data ingestion
+*   **Cardano** — Aiken/Plutus v3 validator
+*   **PostgreSQL** — Local storage
+
+## Live Status
+✅ Operational on Cardano Preprod Testnet
+✅ Aiken Validator deployed
+✅ AIRQ Tokens minted
+
+## Key Achievement
+> Successful deployment of the "Environmental Data Anchor Validator" on Cardano Preprod.

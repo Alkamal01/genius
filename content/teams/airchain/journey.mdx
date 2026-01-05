@@ -2,6 +2,21 @@
 sidebarTitle: Journey
 ---
 
-# Journey — AirChain
+# AirChain — The Journey
 
-Content for Journey...
+## Phase A: Ground Potentializing (Research & Ideation)
+The team observed a stark contrast in Uyo: communities self-organize around visible problems like overflowing waste bins or failed water supply, but they ignore air pollution because it is invisible.
+
+There was no "shared signal" to coordinate action. The team initially considered a traditional "machine-like" system (deploy sensors -> report data), but realized these systems are fragile—they degrade silently when funding or attention fades.
+
+## Phase B: Prototyping (Design & Development)
+To build a "Living System," AirChain designed sensors as "Cells"—autonomous nodes that tolerate intermittent power and connectivity loss.
+
+Crucially, they implemented **Merkle Batching** for data integrity. Instead of spamming the blockchain with raw data, the system hashes readings into a Merkle tree and anchors only the Root on Cardano.
+
+This ensures privacy, efficiency, and verifiable truth without bloating the chain.
+
+## Phase C: Deployment (Final Implementation)
+The system is fully operational on the Cardano Preprod Testnet. The backend uses FastAPI and Kubernetes for orchestration, ensuring scalability.
+
+An Aiken Validator enforces the integrity of the data anchors, treating Cardano as "immutable public memory" rather than a computation engine.
