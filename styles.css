@@ -189,6 +189,57 @@ a:hover {
   /* Ensure it sits on top of the link */
 }
 
+/* Announcement Modal Animations */
+@keyframes confetti {
+  0% {
+    transform: translateY(-100vh) rotate(0deg);
+    opacity: 1;
+  }
+
+  100% {
+    transform: translateY(100vh) rotate(720deg);
+    opacity: 0;
+  }
+}
+
+@keyframes modalSlideIn {
+  0% {
+    opacity: 0;
+    transform: scale(0.9) translateY(20px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+
+@keyframes slideUp {
+  0% {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-confetti {
+  animation: confetti linear forwards;
+}
+
+.animate-modalSlideIn {
+  animation: modalSlideIn 0.5s ease-out forwards;
+}
+
+.animate-slideUp {
+  opacity: 0;
+  animation: slideUp 0.6s ease-out forwards;
+}
+
+
 /* styles/glow.css or similar */
 @keyframes dashFlow {
   to {
